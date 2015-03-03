@@ -5,18 +5,21 @@ description: "This is what I've done so far."
 header-img: "img/about-bg.jpg"
 ---
 
-Greetings friend! You’ve reached the personal website of [Janne Cederberg][twitter], the founder of [Opetus.tv][otv], which is kind of like Khan Academy but in Finnish, based on Finnish curriculum and created without outside funding. Our content is of higher pedagogical and technical quality than Khan Academy’s.
+In addition to working on technical, business development and content creation stuff for Opetus.tv, here a things/projects/organizations I’ve been working with in the recent years:
 
-I used to work as a high math and IT teacher and tech admin before resigning in spring 2011 and starting work as an entrepreneur.
+## 2015
 
-Recently, besides Opetus.tv, I’ve been working with the [Matriculation Examination Board of Finland][meb] regarding the [digitalization][digi] of high school final exams in Finland starting in 2016.
+- Proof-of-concept stuff regarding **Abitti** system
+	- Abitti system is the first official public version of the digital exam system that will be employed in high school final exams nation-wide starting in autumn 2016.
+	- Created an editor that enables teachers to use text formatting including tables as well as images and sounds in exam questions in the Abitti system even though the Abitti system does not officially support anything but plaintext for questions at the time of creation in February 2015.
+- Training sessions for high schools
+	- Multiple training sessions for different high schools, including schools in Helsinki, Lohja and Porvoo, regarding the Abitti system and demonstrating on hands-on basis how to use the system.
 
-The articles on this blog will be, depending on content/context, either in English or in Finnish.
+## 2014
 
-To [contact me][contact].
-
-[twitter]: https://twitter.com/jannecederberg
-[otv]: http://opetus.tv/
-[meb]: http://www.ylioppilastutkinto.fi/
-[digi]: http://digabi.fi/
-[contact]: /contact/
+- Matriculation Examination Board of Finland
+	- Project management as well as part of programming in developing Ideabi.fi, an idea sharing platform for teachers to use.
+	- A research project regarding the possibilities of chemistry notation and 3D representation preferrably in a browser environment and available as open-source solutions. This was carried out be Tiina Tähkä from the Finnish National Board of Education, Johannes Pernaa and me.
+- Suomen Vuokranantajat (Finnish Landlords’ Association)
+	- Security audit of their website
+	- Helping to close a serious security hole that would have allowed an anonymous user to destroy their member by writing arbitrary data over all member records.
