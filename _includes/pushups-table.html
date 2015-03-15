@@ -1,0 +1,36 @@
+<table>
+	<thead>
+		<tr>
+			<th>Day#</th>
+			<th>Date</th>
+			<th>DoW</th>
+			<th>Pushups</th>
+			<th>Comments</th>
+		</tr>
+	</thead>
+	<tbody>
+		{{ assign total = 0 }}
+		{{ assign delta = 0 }}
+		{% capture records %}{{ site.data.pushups | size }}{% endcapture %}
+		{% for row in site.data.pushups %}
+		  {% capture total %}{{ total | plus: row.amount }}{% endcapture %}
+			<tr>
+				<td>{{ records | minus: delta }}</td>
+		  	{% capture delta %}{{ delta | plus: 1 }}{% endcapture %}
+				<td>{{ row.date | date: "%d %b %Y"}}</td>
+				<td>{{ row.date | date: "%a" }}</td>
+				<td>{{ row.amount }}</td>
+				<td>{{ row.comments }}</td>
+			</tr>
+		{% endfor %}
+		</tbody>
+		<tfoot>
+			<tr>
+				<td></td>
+				<td>TOTAL ({{ records }} days)</td>
+				<td></td>
+				<td>{{ total }} (~ {{ total | divided_by: records }}/day)</td>
+				<td></td>
+			</tr>
+	</tfoot>
+</table>
