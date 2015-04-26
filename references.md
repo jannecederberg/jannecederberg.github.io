@@ -2,7 +2,7 @@
 layout: page
 title: References
 description: "This is what I've done so far."
-header-img: "img/about-bg.jpg"
+header-img: "img/bg-references.jpg"
 ---
 
 In addition to working on technical, business development and content creation stuff for Opetus.tv, here a things/projects/organizations I’ve been working with in the recent years:
