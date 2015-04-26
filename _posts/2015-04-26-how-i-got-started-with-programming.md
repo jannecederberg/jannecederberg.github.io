@@ -45,12 +45,19 @@ I case you've read all the way until here, then I guess you're not easily scared
 
 To get started, think about what it is you want to solve and then try to figure out how to do it. Google is your friend. Stackoverflow is awesome. Just like you.
 
+And of course you can start by going through the excellent [Code.org intro exercises!][hoc]
+
+## How did you start?
+
+Please leave a comment below about how/why/what inspired you to start learning programming.
+
 
 [antti]: https://twitter.com/anttikorhonen
 [ansible]: http://www.ansible.com/home
 [apache]: http://en.wikipedia.org/wiki/Apache_HTTP_Server
 [bananapi]: http://www.bananapi.org/
 [excel]: http://en.wikipedia.org/wiki/Microsoft_Excel
+[hoc]: http://code.org/learn
 [html-css]: http://www.codecademy.com/tracks/web
 [klassikka]: http://klassikka.fi
 [java]: http://www.learnjavaonline.org/
