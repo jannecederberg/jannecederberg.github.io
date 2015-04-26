@@ -13,7 +13,7 @@ I initially got started with programming based on two separate triggers:
 
 ### "You should learn HTML"
 
-Around 1997 my uncle [Antti Korhonen][antti] was working at [Nokia][nokia] at the early days of its "world conquering tour"; he encouraged me to start learning HTML. I asked him what kind of tools I needed for it and he said something to the tone of 'Just us Notepad'.
+Around 1997 my uncle [Antti Korhonen][antti] was working at [Nokia][nokia] at the early days of its "world conquering tour"; he encouraged me to start learning HTML. I asked him what kind of tools I needed for it and he said something to the tone of 'Just use Notepad'.
 
 I was around 16 at the time and hardly knew much about computers. My parents had bought our first PC roughly a year earlier in 1996 and all I knew about computers back then was this "If I type <kbd>dir</kbd> in the command line, it'll do something". I didn't really know what that something was but hey, that's a start :)
 
