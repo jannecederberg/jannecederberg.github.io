@@ -13,13 +13,15 @@ I initially got started with programming based on two separate triggers:
 
 ### "You should learn HTML"
 
-Around 1997 my uncle [Antti Korhonen][antti] was working at [Nokia][nokia] at the early days of its "world conquering tour"; he encouraged me to start learning HTML. I asked him what kind of tools I needed for it and he said something to the tone of 'Just use Notepad'.
+Around 1997 my uncle [Antti Korhonen][antti] who was working at [Nokia][nokia] at the early days of its "world conquering tour" encouraged me to start learning HTML. I asked him what kind of tools I needed and he said something to the tone of 'Just use Notepad'.
 
-I was around 16 at the time and hardly knew much about computers. My parents had bought our first PC roughly a year earlier in 1996 and all I knew about computers back then was this "If I type <kbd>dir</kbd> in the command line, it'll do something". I didn't really know what that something was but hey, that's a start :)
+I was around 16 and hardly knew anything about computers. My parents had bought our first PC roughly a year earlier and all I knew back then was this: If I type <kbd>dir</kbd> in the command line, it'll do something. I didn't really know what that something was but hey, that's a start :)
+
+So learn HTML I did; initially developing for [NCSA Mosaic][mosaic] and later for [Netscape 3][netscape] using HTML 3.2.
 
 ### Programming the TI-85 graphics calculator
 
-Roughly a year later when taking a numerical math course at [high school][klassikka] I found the programming examples presented in the margins of the course book interesting. By this time I had been writing raw HTML using Notepad but hadn't really done much of actual programming.
+Roughly a year later when taking a numerical math course at [high school][klassikka] I found the programming examples presented in the margins of the course book interesting. I had been writing raw HTML using Notepad but hadn't really done much of actual programming.
 
 The examples in the math book covered creating small math related programs using [Texas TI-85][ti-85]; code was presented as pseudo-code resembling the Basic language that was used at the time in both TI-85 and the Casio equivalent.
 
@@ -31,9 +33,9 @@ Programming on the calculator was very basic of course (pun intended), and used 
 
 ## What I learned after getting started
 
-It's now been almost 20 years since I got started with programming. One curious part is though that I've actually never worked as a full time programmer. I've always viewed programmming more or less as a tool to get something I needed done, done. And to get that whatever done, I'd research, maybe get acquinted with a new programming language etc. Whatever it took basically. And by doing this I've learned tons. And realized more and more how much more there would be to learn :)
+It's now been almost 20 years since I got started with programming. One curious part is that I've actually never worked as a full-time programmer though. I've always viewed programming more or less as a tool to get something I needed done. And to get that whatever done, I'd research, read read read, maybe get acquinted with a new programming language etc. Basically whatever it took. And by doing this I've learned tons over the years. And I've also realized how much more there would be to learn :)
 
-I get fairly well along with [HTML, CSS][html-css], [JavaScript][js], [jQuery][jQ], [PHP][php] and [Python][python]. Sometimes I'll automate something using [VBA][vba] in [Excel][excel]. I use the Chrome/Firefox developer console daily, compile my own version of [OpenWrt][openwrt] when needed, have taught [Java][java] at the [university][jyu] though never used it in my own work/projects outside university, write bash scripts and configure [Apache][apache]/[Nginx][nginx] webserver and [MySQL][mysql] database stuff on a semi-regular basis for example when playing with virtual machines, [RaspberryPi][raspi]s and [BananaPi][bananapi]s. Occasionally I also develop enough patience to write the former configurations into [Ansible][ansible] scripts. [Ruby][ruby] and its gems are cool I guess but somehow [I seem to enjoy Python more][xkcd-python].
+I get fairly well along with [HTML, CSS][html-css], [JavaScript][js], [jQuery][jQ], [PHP][php] and [Python][python]. Sometimes I'll automate something using [VBA][vba] in [Excel][excel]. I've written a fair amount of Windows Server ActiveDirectory Group Policy Objects and JScript scripts associated with them. I use the Chrome/Firefox developer console daily. I compile my own version of [OpenWrt][openwrt] when needed. I've taught [Java][java] at the [university][jyu] though never used it in my own work/projects outside university. I write bash scripts and configure [Apache][apache]/[Nginx][nginx] webserver and [MySQL][mysql] database stuff on a semi-regular basis for example when playing with virtual machines; or [SoC][soc] machines like [RaspberryPi][raspi]s and [BananaPi][bananapi]s. Occasionally I also develop enough patience to write the former configurations into [Ansible][ansible] scripts. [Ruby][ruby] and its gems are cool I guess but somehow [I seem to enjoy Python more][xkcd-python].
 
 Here's [Randall Munroe][randall]'s view on programming in Python, as presented in his well-known and appreciated nerd humor comic [xkcd][xkcd]:
 
@@ -41,7 +43,7 @@ Here's [Randall Munroe][randall]'s view on programming in Python, as presented i
 
 ## You want to learn programming?
 
-I case you've read all the way until here, then I guess you're not easily scared. That's something you'll need when learning to program. And like I said, I'm not a full-time programmer. To me programming is a tool for getting stuff done. Like writing is a very useful tool even if you're not a professional writer.
+I case you've read all the way until here, then I guess you're not easily scared (or bored). That's something you'll need when learning to program. And like I said, I'm not a full-time programmer. To me programming is a tool for getting stuff done. Like writing is a very useful tool even if you're not a professional writer.
 
 To get started, think about what it is you want to solve and then try to figure out how to do it. Google is your friend. Stackoverflow is awesome. Just like you.
 
@@ -49,7 +51,7 @@ And of course you can start by going through the excellent [Code.org intro exerc
 
 ## How did you start?
 
-Please leave a comment below about how/why/what inspired you to start learning programming.
+In case you're already into programming, please leave a comment below on how/why/what inspired you to start learning programming.
 
 
 [antti]: https://twitter.com/anttikorhonen
@@ -64,7 +66,9 @@ Please leave a comment below about how/why/what inspired you to start learning p
 [jQ]: http://www.codecademy.com/tracks/jquery
 [js]: http://www.codecademy.com/tracks/javascript
 [jyu]: https://www.jyu.fi/it/en
+[mosaic]: http://en.wikipedia.org/wiki/Mosaic_%28web_browser%29
 [mysql]: http://en.wikipedia.org/wiki/MySQL
+[netscape]: http://en.wikipedia.org/wiki/Netscape#Netscape_Navigator_.28versions_0.9.E2.80.934.08.29
 [newton]: http://en.wikipedia.org/wiki/Newton%27s_method
 [nginx]: http://en.wikipedia.org/wiki/Nginx
 [nokia]: http://www.nokia.com/
@@ -75,6 +79,7 @@ Please leave a comment below about how/why/what inspired you to start learning p
 [randall]: http://en.wikipedia.org/wiki/Randall_Munroe
 [raspi]: https://www.raspberrypi.org/
 [ruby]: http://www.codecademy.com/tracks/ruby
+[soc]: http://en.wikipedia.org/wiki/System_on_a_chip
 [vba]: http://en.wikipedia.org/wiki/Visual_Basic_for_Applications
 [xkcd]: http://xkcd.com/
 [xkcd-python]: https://xkcd.com/353/
