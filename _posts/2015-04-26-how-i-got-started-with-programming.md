@@ -47,11 +47,11 @@ I case you've read all the way until here, then I guess you're not easily scared
 
 To get started, think about what it is you want to solve and then try to figure out how to do it. Google is your friend. Stackoverflow is awesome. Just like you.
 
-And of course you can start by going through the excellent [Code.org intro exercises!][hoc]
+And of course you can start by going through the excellent [Code.org intro exercises!][hoc]. Also you can post questions in the comments below :)
 
 ## How did you start?
 
-In case you're already into programming, please leave a comment below on how/why/what inspired you to start learning programming.
+In case you're already into programming, please leave a comment below for example on how/why/what inspired you to start learning programming.
 
 
 [antti]: https://twitter.com/anttikorhonen
