@@ -1,0 +1,1 @@
+Plotting Finnish high schools on a map
