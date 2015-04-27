@@ -24,7 +24,10 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div style="margin-top:2em; float:right;">{% include facebook-box-count.html %}</div>
+                <div style="margin-top:2em; margin-left:7px; float:right;">
+                    <p>{% include facebook-box-count.html %}</p>
+                    <p>{% include twitter-button.html %}</p>
+                </div>
 
 				{{ content }}
 
@@ -37,8 +40,9 @@ layout: default
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
                     </li>
                     {% endif %}
-
-                    {% include facebook-button-count.html %}
+                    <li>
+                        {% include facebook-button-count.html %}
+                    </li>
                     
                     {% if page.next.url %}
                     <li class="next">
