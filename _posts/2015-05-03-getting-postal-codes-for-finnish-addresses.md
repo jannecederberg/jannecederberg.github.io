@@ -251,7 +251,7 @@ You're using code provided here on your own responsibility. This article is prov
 
 ## Footnotes
 
-- <sup>1</sup> This is the address I grew up/lived at between ages 6-19.
+- <sup>1</sup> This is the address I grew up/lived at between ages 6-20.
 
 
 [40100]: https://www.youtube.com/watch?v=nfia2WLvSNQ
