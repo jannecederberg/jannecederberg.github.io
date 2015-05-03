@@ -8,7 +8,7 @@ header-img: "img/post_2015-05-03.jpg"
 
 ## Background
 
-Should you ever be looking to find postal codes (or ZIP  Americans like to call them) for Finnish cities and/or street addresses, the Finnish Postal service ([Posti][posti]) offers a [manual search interface][postinrohaku].
+Should you ever be looking to find postal codes (or ZIP codes like Americans call them) for Finnish cities and/or street addresses, the Finnish Postal service ([Posti][posti]) offers a [manual search interface][postinrohaku].
 
 On quick inspection I was unable to find a Posti-provided English user interface (UI) for the search but it seems someone has [implemented the same functionality][postal-search] elsewhere.
 
