@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Getting zip codes for Finnish addresses
+title:      Getting postal codes for Finnish addresses
 subtitle:   and automating the process using Python
-date:       2015-05-03 09:00:00
+date:       2015-05-03 14:25:00
 header-img: "img/post_2015-05-03.jpg"
 ---
 
