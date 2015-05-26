@@ -43,13 +43,13 @@ As mentioned, it turns out it's not necessary to root the device. Samsung has a 
 2. Download [n7000-CWM-KitKatCompatible.zip][cwm-n7000], *md5sum: 7bf5958940c4a16f7c46735f26fcf2bb*.
 2. Unzip the file; the essential part is the <kbd>boot.img</kbd> file which we'll need in a moment.
 3. Power down the GT-N7000 and make sure it is fully charged. Do not connect the device to your computer yet.
-4. Start the GT-N7000 into *Download Mode* by pressing:<br>**Volume down** + **Home** + **Power**.
+4. Start the GT-N7000 into *Download Mode* by pressing and holding:<br>**Volume down** + **Home** + **Power**.
 5. Confirm the warning by pressing **Volume up**.
 6. Connect the device with a USB cable to your computer.
 7. `sudo heimdall flash --KERNEL boot.img --no-reboot`
 8. You'll see a blue bar go across the screen.
 9. When done, power off the device.
-10. Start the device into CWM 6.0.4.5 by: **Volume up** + **Home** + **Power**.
+10. Start the device into CWM 6.0.4.5 by holding **Volume up** + **Home** + **Power** for something like 5-10 seconds.
 11. Done with flashing custom recovery. Continue to flashing KitKat and Google Apps.
 
 ### Installing CM11 (Android KitKat)
