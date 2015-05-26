@@ -3,7 +3,7 @@ layout:     post
 title:      CyanogenMod 11 on Samsung Galaxy Note
 subtitle:   Installing CM11 (Android 4.4.4 KitKat) on GT-N7000
 date:       2015-05-26 12:00:00
-header-img: "img/post_2015-05-03.jpg"
+header-img: 
 ---
 
 Last weekend I visited my grandmother and aunt up in [Vuokatti][vuokatti] after heading a training session regarding the digitalization of high school final exams (A-levels) at the [Kajaani high school][kajaani-hs].
