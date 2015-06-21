@@ -87,6 +87,8 @@ Check this 15 minute long (and worth every minute of it) video by CGP Grey:
 
 ## Will your job be done by a (ro)bot?
 
+For example in the transportation industry, [BIG changes are about to happen][trucks].
+
 It's not hard to tell there are incentives for businesses to reduce human labor and replace jobs with robots. What should you do then?
 
 One thing you can do is take a look at this [NPR's interactive info graphic][npr] if **your** job is likely to be replaced by (ro)bots:
@@ -98,8 +100,6 @@ One thing you can do is take a look at this [NPR's interactive info graphic][npr
 
 
 ## What if my job is replaced by a (ro)bot?
-
-For example in the transportation industry, [BIG changes are about to happen][trucks].
 
 In case you're currently studying, maybe evaluate your chosen field from the above point of view.
 
