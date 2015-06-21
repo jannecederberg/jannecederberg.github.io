@@ -2,7 +2,7 @@
 layout:     post
 title:      Is your job over?
 subtitle:   Humans need not apply...
-date:       2015-06-21 12:00:00
+date:       2015-07-01 12:00:00
 header-img: 
 ---
 
