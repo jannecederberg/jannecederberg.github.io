@@ -13,7 +13,9 @@ Stop for a moment to think about what it is that you do daily to put fulfill you
 
 How much thought have you given to what enabled to be doing what you're doing? I mean, from the point of view of what made it possible for you to not have to be hunting/gathering for food all day long?
 
-This pseudo code written using Python syntax (and to add a bit of humor value) illustrates some aspects of a hunting and gathering society:
+## Life a long time ago
+
+This pseudo code written using Python syntax (and written to add a bit of humor value) probably illustrates some aspects of a hunting and gathering society:
 
 {% highlight python %}
 from behavior import basics, romance
