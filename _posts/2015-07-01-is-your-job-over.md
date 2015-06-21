@@ -81,7 +81,7 @@ First of all, we should define what *too far* means. The goal of automation has 
 
 So I'm guessing most people would say automation has gone *too far* when automation starts to destroy what it was created to do, in other words, standards of living start to decline. *But how could that happen??*
 
-Take a look at this 15 minute (and worth every minut of it) video by CGP Grey:
+Check this 15 minute long (and worth every minute of it) video by CGP Grey:
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/7Pq-S557XQU" frameborder="0" allowfullscreen></iframe></p>
 
