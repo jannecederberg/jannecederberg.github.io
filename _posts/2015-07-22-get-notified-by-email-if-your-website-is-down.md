@@ -17,7 +17,7 @@ Have a credit-card sized computer (RaspberryPi) running a script at certain inte
 1. the HTTP server responded/didn't time out and
 2. the response received contained some predefined text
 
-The predefined text searched for in #2 should be unlikely to change by content modifications and should not be unlikely to exist in possible error messages issued by the HTTP server.
+The predefined text searched for in #2 should be unlikely to change by content modifications and should be unlikely to exist in possible error messages issued by the HTTP server.
 
 If both of the above conditions are met, let's consider the URL/site in question to be operating as expected.
 
