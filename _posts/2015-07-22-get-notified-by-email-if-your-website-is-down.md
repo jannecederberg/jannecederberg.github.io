@@ -202,8 +202,8 @@ Now use the arrow keys to move all the way down below the commented-out lines (l
 */5 * * * * /home/pi/monitor-websites.sh
 {% endhighlight %}
 
-Now press <kbd>Ctrl+X</kbd> followed by <kbd>Y</kbd> to save. (I'm assuming here that the [Nano][nano]
-is being used as Cron editor, which is the default case in Raspbian.)
+Now press <kbd>Ctrl+X</kbd> followed by <kbd>Y</kbd> to save. (I'm assuming here that [Nano][nano]
+is being used as Cron editor, which is the default in Raspbian.)
 
 What this does is define our script to run every 5 minutes around the clock all year long. If you want some other kind of interval, study the [Cron syntax][cron].
 
