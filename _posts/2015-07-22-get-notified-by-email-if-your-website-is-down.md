@@ -55,8 +55,7 @@ Boot up your RaspberryPi and hook it with a monitor and keyboard or alternativel
 Now that you've got your RaspberryPi "under your fingertips", either with monitor+keyboard or over SSH, issue the following command at the shell (the black screen with white text):
 
 {% highlight bash %}
-sudo apt-get install python-pip -y
-sudo pip install requests
+sudo apt-get install python-requests -y
 {% endhighlight %}
 
 If you received no errors, you're ready to move forward.
@@ -133,7 +132,7 @@ if len(problems) > 0:
 To get a copy of the script to your RaspberryPi, either run the following command on the RPi
 
 {% highlight bash %}
-nano monitor-websites.sh
+nano monitor-websites.py
 {% endhighlight %}
 
 and then paste the code in and hit <kbd>Ctrl+X</kbd> followed by <kbd>Y</kbd>.
@@ -143,7 +142,7 @@ and then paste the code in and hit <kbd>Ctrl+X</kbd> followed by <kbd>Y</kbd>.
 Make sure your RPi is connected to the Internet and run the following command on it:
 
 {% highlight bash %}
-wget http://jannecederberg.fi/files/monitor-websites.sh
+wget http://jannecederberg.fi/files/monitor-websites.py
 {% endhighlight %}
 
 ### Making the script file executable
@@ -151,7 +150,7 @@ wget http://jannecederberg.fi/files/monitor-websites.sh
 Next, make the script executable by running the following on the RPi:
 
 {% highlight bash %}
-chmod 700 monitor-websites.sh
+chmod 700 monitor-websites.py
 {% endhighlight %}
 
 This will set the read (4), write (2) and execute (1) permission (4+2+1 = 7) for script owner (you) and no permissions (0) for group and world.
@@ -165,7 +164,7 @@ More info on [Linux file permissions][linux-file-perm].
 Ok, we're almost done. Currently we can run the above script manually by typing:
 
 {% highlight bash %}
-./monitor-websites.sh
+./monitor-websites.py
 {% endhighlight %}
 
 You can try purposefully setting the script so that it looks for text the corresponding URL does not contain in order to make sure it's working and sending you the expected notification email. This will simulate a situation where your website is running some CMS (like WordPress) and for example WordPress has lost it's connection to its database.
@@ -186,7 +185,7 @@ To use Cron, we need to know the full path of our script. To find this out, run 
 pwd
 {% endhighlight %}
 
-Most likely the output will be <kbd>/home/pi</kbd> which would mean that the full path of your script is <kbd>/home/pi/monitor-websites.sh</kbd>.
+Most likely the output will be <kbd>/home/pi</kbd> which would mean that the full path of your script is <kbd>/home/pi/monitor-websites.py</kbd>.
 
 #### Setting Cron to run our script
 
@@ -199,7 +198,7 @@ crontab -e
 Now use the arrow keys to move all the way down below the commented-out lines (lines starting with #) and enter the following line:
 
 {% highlight bash %}
-*/5 * * * * /home/pi/monitor-websites.sh
+*/5 * * * * /home/pi/monitor-websites.py
 {% endhighlight %}
 
 Now press <kbd>Ctrl+X</kbd> followed by <kbd>Y</kbd> to save. (I'm assuming here that [Nano][nano]
