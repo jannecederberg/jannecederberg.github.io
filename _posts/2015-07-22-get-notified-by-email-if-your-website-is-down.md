@@ -14,10 +14,10 @@ Say you run a website or a few, maybe even as a part of your business. It's natu
 
 Have a credit-card sized computer (RaspberryPi) running a script at certain intervals (say, every 5min) that requests the desired URL(s) and checks that
 
-1. the server responded and didn't time out and
-2. the response received contains some predefined text
+1. the HTTP server responded/didn't time out and
+2. the response received contained some predefined text
 
-The predefined text searched for in #2 should be unlikely to change by content modifications and should not be present in error messages.
+The predefined text searched for in #2 should be unlikely to change by content modifications and should not be unlikely to exist in possible error messages issued by the HTTP server.
 
 If both of the above conditions are met, let's consider the URL/site in question to be operating as expected.
 
