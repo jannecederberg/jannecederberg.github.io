@@ -75,8 +75,9 @@ Here's the Python script that will do most of the job. This is a Python2 script 
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Author: Janne Cederberg (http://jannecederberg.fi)
-# This is a Python2 script and will not work with Python3.
+# Author:     Janne Cederberg (http://jannecederberg.fi)
+# License:    http://unlicense.org/
+# Disclaimer: Use at your own risk. This is a Python2 script and will not work with Python3.
 
 import smtplib, requests, socket
 
