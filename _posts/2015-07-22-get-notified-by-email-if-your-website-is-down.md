@@ -25,9 +25,8 @@ If both of the above conditions are met, let's consider the URL/site in question
 
 ## Hardware and software
 - [RaspberryPi][rpi] with ethernet
-	- RPi1 model B or B+
-	- RPi2
-	- probably available at your local dealer
+	- either RPi1 model B/B+ or RPi2
+	- these are probably available at your local dealer
 - At least a 4GB SD card with the [Raspbian operating system][raspbian] on it
 	- with RPi2 you'll need to use a microSD card
 	- Instructions for [writing Raspbian to SD card][raspbian-to-sd]
