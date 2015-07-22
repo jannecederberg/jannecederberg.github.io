@@ -50,6 +50,14 @@ A RaspberryPi, depending on the model, will run you roughly a maximum of around 
 
 Boot up your RaspberryPi and hook it with a monitor and keyboard or alternatively log into it using SSH. If you're running Windows on your laptop/desktop that you're reading this on, use [PuTTY for the SSH connection][putty-to-rpi]. The default Raspbian username and password can be seen on the Raspbian download page.
 
+### Changing your RaspberryPi password
+
+You SHOULD NOT be running your RaspberryPi with the default username and password. Change your password now by running:
+
+{% highlight bash %}
+passwd
+{% endhighlight %}
+
 ### Installing dependencies
 
 Now that you've got your RaspberryPi "under your fingertips", either with monitor+keyboard or over SSH, issue the following command at the shell (the black screen with white text):
@@ -59,14 +67,6 @@ sudo apt-get install python-requests -y
 {% endhighlight %}
 
 If you received no errors, you're ready to move forward.
-
-### Changing your RaspberryPi password
-
-You SHOULD NOT be running your RaspberryPi with the default username and password. Change your password now by running:
-
-{% highlight bash %}
-passwd
-{% endhighlight %}
 
 ### The monitoring script
 
