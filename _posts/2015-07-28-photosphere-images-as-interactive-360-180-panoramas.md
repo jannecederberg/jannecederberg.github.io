@@ -16,7 +16,7 @@ Try grabbing the panorama below and moving left/right/up/down. Also notice that 
 
 <div id="panorama"><em>(Panorama will load here if WebGL is enabled on your browser)</em></div>
 
-The above panorama is a view from outside the [Linnanmäki][lintsi] amusement park's south entrance in Helsinki, Finland. See the [location on Google Maps][location].
+The panorama is a view from outside the [Linnanmäki][lintsi] amusement park's southern entrance in Helsinki, Finland. See the [location on Google Maps][location].
 
 ### Try it yourself with your photos
 
