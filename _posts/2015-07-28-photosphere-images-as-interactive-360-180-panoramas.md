@@ -20,7 +20,7 @@ The panorama is a view from outside the [Linnanmäki][lintsi] amusement park's s
 
 <div id="panorama2"><em>(Panorama will load here if WebGL is enabled on your browser)</em></div>
 
-The above panorama is created from the same image that's used on the header of this article!
+The above is a panorama view of the same image that's used on the header of this article!
 
 Please notice that the image *was not actually shot all the way around* (so the source is not a full 360&deg; by 180&deg; panorama) *and hence it looks stretched* and in general a bit off/"wrong".
 
