@@ -42,11 +42,11 @@ A few days ago my niece asked me if I could go and get some photos from Linnanm√
 
 ### No panorama?
 
-First off snapping some normal portrait oriented photos and sending them to her as I snapped along; then wanting to take a panorama shot I realized my resently-rooted [OnePlus One][oneplusone] currently running [CyanogenMod 12.1[cm12] (Android 5.1 Lollipop) didn't support panorama...I was a bit confused since previously when running CyanogenMod 11 panoramas were no problem.
+First off snapping some normal portrait oriented photos and sending them to her as I snapped along; then wanting to take a panorama shot I realized my resently-rooted [OnePlus One][oneplusone] currently running [CyanogenMod 12.1][cm12] (Android 5.1 Lollipop) didn't support panorama...I was a bit confused since previously when running CyanogenMod 11 panoramas were no problem.
 
 ### Solution and epiphany
 
-Quick online search later I realized and app called *[Google Camera][gcamera]* existed that I hadn't even heard even though apparently it's been around for a while already!
+Quick online search later I realized and app called *[Google Camera][gcamera]* existed that I hadn't even heard of even though apparently it's been around for a while already!
 
 On some article I quickly skimmed about the app the writer mentioned the PhotoSphere feature of the app. Having played with manual panorama stitching and creating 360&deg; by 180&deg; panoramas ("full around" panoramas) around the early 2000s I immediately guessed what PhotoSphere would most likely do for me and was more than eager to try it out!
 
