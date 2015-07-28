@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      PhotoSphere images as interactive 360&deg; by 180&deg; panoramas
-subtitle:   It's like pouring a jar of awesome-sauce on panorama images!
+title:      "PhotoSphere images as interactive 360&deg; by 180&deg; panoramas"
+subtitle:   "It's like pouring a jar of awesome-sauce on panorama images!"
 date:       2015-07-28 14:30:00
 header-img: "img/post_2015-07-28.jpg"
 ---
