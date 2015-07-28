@@ -14,9 +14,15 @@ Here's the result of putting my first full 360&deg; by 180&deg; PhotoSphere phot
 
 Try grabbing the panorama below and moving left/right/up/down. Also notice that you can animate the view by clicking on the icon at bottom-left:
 
-<div id="panorama"><em>(Panorama will load here if WebGL is enabled on your browser)</em></div>
+<div id="panorama1"><em>(Panorama will load here if WebGL is enabled on your browser)</em></div>
 
 The panorama is a view from outside the [Linnanmäki][lintsi] amusement park's southern entrance in Helsinki, Finland. See the [location on Google Maps][location].
+
+<div id="panorama2"><em>(Panorama will load here if WebGL is enabled on your browser)</em></div>
+
+The above panorama is created from the same image that's used on the header of this article!
+
+Please notice that the image *was not actually shot all the way around* (so the source is not a full 360&deg; by 180&deg; panorama) *and hence it looks stretched* and in general a bit off/"wrong".
 
 ### Try it yourself with your photos
 
@@ -82,16 +88,17 @@ That's all for now :)
 <script src="/js/photo-sphere-viewer.js"></script>
 <script>
 window.onload = function() {
-    loadPredefinedPanorama();
+    loadPredefinedPanorama('panorama1', '/img/post_2015-07-28_photosphere_example.jpg');
+    loadPredefinedPanorama('panorama2', '/img/post_2015-07-28.jpg');
     document.getElementById('panorama-selector').addEventListener('change', upload, false);
 };
 
 // Load the predefined panorama
-function loadPredefinedPanorama() {
-    var div = document.getElementById('panorama');
+function loadPredefinedPanorama(elemid, img) {
+    var div = document.getElementById(elemid);
     var PSV = new PhotoSphereViewer({
             // Path to the panorama
-            panorama: '/img/post_2015-07-28_photosphere_example.jpg',
+            panorama: img,
             // Container
             container: div,
             // Deactivate the animation
