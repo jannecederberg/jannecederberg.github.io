@@ -206,9 +206,9 @@ is being used as Cron editor, which is the default in Raspbian.)
 
 What this does is define our script to run every 5 minutes around the clock all year long. If you want some other kind of interval, study the [Cron syntax][cron].
 
-The `2>&1 | logger` at the end of the redirects both [STDOUT and STDERR][streams] to the `logger` command which writes output from the script to system log.
+The `2>&1 | logger` at the end of the command redirects both [STDOUT and STDERR][streams] to the `logger` command which as a result writes output from the script to system log.
 
-To view system log entries, run this: `cat /var/log/syslog` (to view all latest entries), `tail /var/log/syslog` (to view by default the latest 10 entries) or `cat /var/log/syslog | grep 'Monitor websites'` (to view entries produced by the monitoring script).
+To view all latest system log entries, run this: `cat /var/log/syslog`. As that's likely to produce a lot of output, you might want to use `tail /var/log/syslog` to view (by default only) the latest 10 entries. Finally, you can run `cat /var/log/syslog | grep 'Monitor websites'` to only view entries produced by the monitoring script.
 
 ## Congratulations!
 
