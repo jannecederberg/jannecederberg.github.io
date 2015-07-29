@@ -116,13 +116,13 @@ if len(problems) > 0:
         msg = 'From: %s\nTo: %s\nSubject: %s\n\n%s\n' % (SENDER, RECIPIENT, EMAIL_TITLE, EMAIL_BODY)
         for p in problems:
             msg += '  - %s\n' % p
-        print 'Sending email to %s' % RECIPIENT
+        print 'Monitor websites: Problems found, sending email to %s' % RECIPIENT
         server.sendmail(SENDER, RECIPIENT, msg)
         server.quit()
     except smtplib.SMTPException:
-        print 'Sending notification email failed.'
+        print 'Monitor websites: Sending notification email failed.'
     except socket.gaierror:
-        print 'Unable to access SMTP server.'
+        print 'Monitor websites: Unable to access SMTP server.'
 {% endhighlight %}
 
 ### Saving the script to your RPi
@@ -198,13 +198,15 @@ crontab -e
 Now use the arrow keys to move all the way down below the commented-out lines (lines starting with #) and enter the following line:
 
 {% highlight bash %}
-*/5 * * * * /home/pi/monitor-websites.py
+*/5 * * * * /home/pi/monitor-websites.py 2>&1 | logger
 {% endhighlight %}
 
 Now press <kbd>Ctrl+X</kbd> followed by <kbd>Y</kbd> to save. (I'm assuming here that [Nano][nano]
 is being used as Cron editor, which is the default in Raspbian.)
 
-What this does is define our script to run every 5 minutes around the clock all year long. If you want some other kind of interval, study the [Cron syntax][cron].
+What this does is define our script to run every 5 minutes around the clock all year long. If you want some other kind of interval, study the [Cron syntax][cron]. The `2>&1 | logger` at the end of the redirects both [STDOUT and STDERR][streams] to the `logger` command which writes output from the script to system log.
+
+To view system log entries, run this: `cat /var/log/syslog` (to view all latest entries), `tail /var/log/syslog` (to view by default the latest 10 entries) or `cat /var/log/syslog | grep 'Monitor websites'` (to view entries produced by the monitoring script).
 
 ## Congratulations!
 
@@ -225,3 +227,4 @@ If you have any comments, questions, spotted some errors or have some improvemen
 [linux-file-perm]: http://www.linux.org/threads/file-permissions-chmod.4094/
 [cron]: https://en.wikipedia.org/wiki/Cron
 [nano]: https://en.wikipedia.org/wiki/GNU_nano
+[streams]: https://en.wikipedia.org/wiki/Standard_streams
