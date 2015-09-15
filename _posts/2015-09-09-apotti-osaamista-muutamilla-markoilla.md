@@ -7,7 +7,7 @@ header-img: "img/post_2015-09-09.jpg"
 light-heading: true
 ---
 
-(This article is available on in Finnish, sorry)
+(This article is available only in Finnish, sorry)
 
 Apotti-hanke on saanut itselleen logon. Hyvä! Nyt voi paremmin markkinoida järjestelmää vaikka ulkomaillekin. Erityisosaamistakin ilmeisesti löytyy, aivan kuin [logon][logo-dt] [suunnittelussa][logo-fb]:
 
