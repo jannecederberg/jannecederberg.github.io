@@ -9,7 +9,7 @@ light-heading: true
 
 (This article is available only in Finnish, sorry)
 
-Apotti-hanke on saanut itselleen logon. Hyvä! Nyt voi paremmin markkinoida järjestelmää vaikka ulkomaillekin. Erityisosaamistakin ilmeisesti löytyy, aivan kuin [logon][logo-dt] [suunnittelussa][logo-fb]:
+Apotti-hanke on [saanut itselleen logon][logo]. Hyvä! Nyt voi paremmin markkinoida järjestelmää vaikka ulkomaillekin. Erityisosaamistakin ilmeisesti löytyy, aivan kuin [logon][logo-dt] [suunnittelussa][logo-fb]:
 
 > Apotti-hanke on 10 vuoden puolella. Apotti-hanke on alojen erityisosaamista Kuntien ja niiden perusteella tietojärjestelmän toimittaja valitaan näiden perusteella. Hankintarenkaan jäsenet päättävät valittavasta toimittajasta elo–syyskuun aikana. Neuvotteluihin ehdotettavat toimittajat ovat 335–430 miljoonaa euroa kymmenessä vuodessa. Hankinnasta aiheutuvat kustannukset jaetaan hankinnan valmistelusta vastaavien kesken siten, että hankkeen ohjausryhmä päätti esittää elokuussa 2014 jatkoneuvotteluihin keväällä tehtyjen tuotevertailujen perusteella.
 
@@ -156,6 +156,7 @@ Apotti-järjestelmän kehittäminen 1960-luvulla kehitetyn tietojärjestelmän p
 
 - Otsakkeen kuva: [Kurtis Garbutt][kuva] (Flickr, CC BY)
 
+[logo]: http://www.hel.fi/hki/apotti/fi/Uutiset/Apotin-ilme-uudistuu
 [liljat]: http://liljat.fi
 [liljat-apotti]: http://liljat.fi/2015/09/apotti-on-terveydenhuollon-vaarantava-titanic/
 [logo-fb]: https://www.facebook.com/photo.php?fbid=10153121059863663&set=a.118467178662.100123.678328662&type=1
