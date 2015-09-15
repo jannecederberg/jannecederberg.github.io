@@ -154,7 +154,7 @@ Apotti-järjestelmän kehittäminen 1960-luvulla kehitetyn tietojärjestelmän p
 
 ## Credits
 
-- Otsakkeen kuva: [Kurtis Garbutt][kuva] (Flickr, CC BY)
+- Otsakkeen kuva: [caesararum][kuva] (Flickr, CC BY)
 
 [logo]: http://www.hel.fi/hki/apotti/fi/Uutiset/Apotin-ilme-uudistuu
 [liljat]: http://liljat.fi
@@ -166,4 +166,4 @@ Apotti-järjestelmän kehittäminen 1960-luvulla kehitetyn tietojärjestelmän p
 [tiedotteet]: http://www.hel.fi/hki/apotti/fi/Medialle
 [raaj]: http://agiliq.com/blog/2009/06/generating-pseudo-random-text-with-markov-chains-u/
 [python]: https://www.python.org/downloads/
-[kuva]: https://www.flickr.com/photos/kjgarbutt/4947989248/in/photolist-8xeJPs-4kQjs2-4CvS3s-7iNtsT-iqKpmj-hzfMXc-9Z1sVW-pqxcb-72j5yj-7JgWR3-4HmEfn-7A8Nn4-dM5ip5-pgt9dm-6xFWc6-3AG48-3PiCZ2-aLUUMe-d2LRVu-9bFkti-8CKsop-9C3cjy-gjAsrq-5kqub3-gvMnZ-7jf2C5-nXMLQ-821yG4-4vTpFL-FMNav-d48xXC-x2N2-behDo2-7NnbnP-3d4wU-6LZ96M-6MFx9i-6N51SL-EqkUt-qVasRp-7MaJ83-7rYJ5k-5AZ9qG-dhYC7-6M4hgW-6N1iga-6GZBiq-db22FM-fsWEdx-ryeB5h
+[kuva]: https://www.flickr.com/photos/29707865@N05/2780508266/in/photolist-5eGQeG-8CExD3-3yL2ur-6rmstp-eoKTfj-D2Gaj-c4Rw4G-cdx6N3-9bfGvL-5WksQ6-8xyKpN-5a3U9C-nGtSb-e1L6W4-bTci2-4nasi8-398sRb-cvL8q1-dpHVtD-8uts1c-6eBt8y-8xeJPs-4kQjs2-4CvS3s-7iNtsT-iqKpmj-hzfMXc-9Z1sVW-pqxcb-72j5yj-7JgWR3-4HmEfn-7A8Nn4-dM5ip5-pgt9dm-6xFWc6-3AG48-3PiCZ2-aLUUMe-d2LRVu-9bFkti-8CKsop-9C3cjy-gjAsrq-5kqub3-gvMnZ-7jf2C5-nXMLQ-821yG4-4vTpFL
