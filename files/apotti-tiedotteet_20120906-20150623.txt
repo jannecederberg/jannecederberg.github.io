@@ -1,0 +1,187 @@
+”Mistään 1,8 miljardia maksavan tietojärjestelmän hankkimisesta ei todellakaan ole kysymys, kun puhutaan Helsingin, Espoon, Vantaan, Kauniaisten ja Keravan kaupunkien sekä Kirkkonummen kunnan ja HUSin yhteisen asiakas- ja potilastietojärjestelmäpalvelun hankinnasta”, sanoo järjestelmäpalvelun hankintaa valmistelevan toimiston hankejohtaja, lääketieteen tohtori Antti Iivanainen
+
+”Kyseessä on kustannushyötyanalyysin perusteella arviolta 350–450 miljoonan euron hanke, jonka kustannukset jakautuvat kymmenelle vuodelle. Vertailukelpoisten toteutuneiden hankkeiden kustannukset ovat olleet 600 miljoonaa euroa. Aika lähelle nykyistä kustannustasoa mennään, koska tällä hetkellä nykyisten järjestelmien kulut ovat 49 miljoonaa euroa vuodelta eli lähes 500 miljoonaa euroa 10 vuodessa” Iivanainen jatkaa.
+
+Päällekkäiset kustannukset vähenevät
+
+Hanketoimiston teettämän kustannushyötyanalyysin mukaan pääkaupunkiseudun kuntien ja HUSin yhteinen palveluhankinta saattaa olla jopa halvempi kuin nykyinen kustannusrakenne. ”Investoinnin arvioidaan maksavan itsensä takaisin seitsemänä käyttövuotena”, Antti Iivanainen toteaa.
+
+Hankkeen esittämät luvut perustuvat järjestelmätoimittajille suunnattuihin hintatiedusteluihin ja niiden perusteella tehtyyn kustannushyötyanalyysiin.
+
+Kustannushyöty tulee erityisesti laadullisista tekijöistä kuten paremmasta asiakas- ja potilasturvallisuudesta, komplikaatioiden vähenemisestä ja paremmista hoito- ja hoivatuloksista.  Kustannushyötyjä muodostuu myös tietotekniikan hallinnan ja ylläpidon päällekkäisten kustannusten vähenemisestä.
+
+Tiedonvälitys tehostuu
+
+Kuudella kunnalla ja HUSilla on 10 eri järjestelmää käytössä. Asiakas- ja potilastiedot eivät siirry järjestelmien välillä riittävästi, jotta ne olisivat kattavasti ammattilaisten käytettävissä hoitoa ja palveluita toteutettaessa. Potilasta hoidettaessa tarvitaan häntä koskevat sairauskertomus- ja hoitotiedot ajantasaisina ja helposti saavutettavina palvelu- ja hoitopaikasta riippumatta.
+
+Maailmalla on toteutettu samankaltaisia hankkeita perusterveydenhuollossa ja erikoissairaanhoidossa.
+”Meillä hankintaan esitetään mukaan myös sosiaalipuolta esim. vanhus-, vammais- ja päihdepalveluita”, Antti Iivanainen toteaa.
+Yhä useammin asiakkaiden ja potilaiden hoitoketjut sisältävät sekä sosiaalihuollon ja terveydenhuollon palveluja.
+
+Tällä hetkellä käytössä olevat tietojärjestelmät eivät myöskään riittävällä tavalla tue sähköisiä palveluja, omahoitoa ja työntekijän ja asiakkaan/potilaan välistä tietoturvallista sähköistä kommunikointia. Ne ovat kuitenkin välttämättömiä muun muassa asiakastyytyväisyyden ja tuottavuuden parantamisen näkökulmasta.
+
+Hankintayhteistyö
+
+Asiakas- ja potilastietojärjestelmäpalveluhanketta varten on yhteistyösopimuksella perustettu kuntien (Helsinki, Espoo, Vantaa, Kirkkonummi, Kerava ja Kauniainen), HUSin ja KL-Kuntahankinnat Oy:n hankintarengas. Hankinnan kustannukset jaetaan puoliksi kuntien ja HUSin kesken. Kunkin kunnan osuus lasketaan asukaslukunsa mukaisessa suhteessa.  Ylläpidon kustannukset maksetaan käyttäjämäärien mukaisesti.
+
+Hankintarengas edustaa sosiaalitoimen ja perusterveyden osalta 20 prosenttia koko Suomen väestöstä. HUS edustaa noin 30 prosenttia erikoissairaanhoidossaApotti-hankkeessa ollaan hankkimassa sosiaali- ja terveydenhuollon yhteistä asiakas- ja potilastietojärjestelmää. Apotti-hanketoimisto haluaa painottaa, että kyseessä ei ole koko Suomea koskeva asiakas- ja potilastietojärjestelmä.
+
+Mukana ovat Helsingin, Espoon, Vantaan, Kauniaisten ja Keravan kaupungit, Kirkkonummen kunta sekä Helsingin ja Uudenmaan sairaanhoitopiiri (HUS). Parhaillaan kaupungit käsittelevät osallistumistaan hankintaan päättävissä elimissään. Hankintaan voivat tulla mukaan myös muut HUS- kunnat niin halutessaan.
+
+Tietojärjestelmän hankinta on osa laajempaa hankekokonaisuutta, jossa sosiaali- ja terveydenhuollon palveluja ja toimintaa kehitetään.
+
+
+Viron järjestelmä on tietovarasto, ei potilastietojärjestelmä
+
+Viro on noussut esiin esimerkkimaana terveydenhuollon tietojärjestelmähankinnoissa. Apotti-hankejohtaja Antti Iivanainen sanoo, että kyseinen Viron järjestelmä ei kuitenkaan ole potilastietojärjestelmä vaan lähinnä suomalaista Kelan KanTa-arkistoa muistuttava tiedonvälitys- ja arkistointipalvelu. ”Virossakin terveydenhuollon toimijat tarvitsevat lisäksi varsinaisen potilastietojärjestelmän”, Iivanainen toteaa.
+
+Potilastietojärjestelmässä on kysymys järjestelmästä, jota lääkärit, hoitajat ja sosiaalipuolen  henkilökunta käyttävät päivittäisessä työssään hoitaessaan potilaita.
+
+
+Myös nykyiset järjestelmät maksavat
+
+Nykyjärjestelmiin käytetään tällä hetkellä vuosittain noin 49 miljoonaa euroa eli 10 vuodessa noin 490 miljoonaa euroa. Apotti-hankkeen asiakas- ja potilastietojärjestelmän kokonaiskustannusten arvioidaan olevan noin 350‒450 miljoonaa euroa kymmenessä vuodessa.
+
+Apotti-hankkeen 10 vuoden kustannukset eivät muodostu pelkästään uuden järjestelmän hankintahinnasta, vaan esimerkiksi käyttöönottokustannuksista, vanhojen tietojen siirtämisestä uuteen järjestelmään sekä vuosittaisista käyttö- ja kehittämiskustannuksista. Kun järjestelmä on otettu käyttöön, sen vuosittaisten kustannusten arvioidaan olevan nykyistä alhaisemmat.
+
+Aiemmin esillä ollut 1,2‒1,8 miljardin euron kustannus on peräisin Sirius-selvityksestä. Selvityksen teettivät yliopistolliset sairaalat ja Sitra. Siinä arvioitiin modernin potilastietojärjestelmän 10 vuoden kokonaiskustannusta, jos sellainen hankittaisiin koko maahan.Apotti-hankkeen valmistelu jatkuu, vaikka Espoon kaupunginvaltuusto päättäisikin, että Espoo jää pois hankkeesta. Muiden kuntien suhtautuminen hankkeeseen on ennallaan. Espoon poisjäänti vaikuttaa hankkeen rahoitukseen ja edellyttää muilta kunnilta ainakin uuden rahoitusosuuden tarkastelua.  
+
+Espoon kaupunginvaltuusto käsittelee asiaa maanantaina 28.1.2013. Espoon kaupunginhallitus esittää valtuustolle, ettei Espoo lähtisi mukaan sosiaalihuollon, perusterveydenhuollon ja erikoissairaanhoidon yhteisen asiakas- ja potilastietojärjestelmän Apotin hankintamenettelyyn.
+
+Espoon jättäytyminen pois hankintayhteistyöstä tarkoittaa muun muassa sitä, että hankinnan laajuus muuttuu ja  HUS ja viisi kuntaa vastaavat yhdessä hankinnan kustannuksista. Espoolaisten potilas- ja asiakastiedot ja niiden hyödyntäminen hoitoketjujen ohjailussa eivät olisi samassa järjestelmässä muiden Apotti-hankkeeseen osallistuvien kuntien eikä HUSin tietojen kanssa.
+
+Muut kunnat edelleen Apotin kannalla
+
+Apotti-hankkeen ohjausryhmä kokoontui 22.1. käsittelemään muuttunutta tilannetta. Espoon mahdollinen jättäytyminen pois hankkeesta ei ole muuttanut muiden hankintaosapuolten kantaa hankkeeseen. Kukin osapuoli joutuu kuitenkin päättämään asian uudelleen, jos yksi iso toimija jättäytyy hankinnan ulkopuolelle. Kaikissa kunnissa tähän ei tarvita valtuuston päätöstä. Esimerkiksi Helsingissä on aiemmin sovittu, että tulevat Apottia koskevat päätökset tehdään sosiaali- ja terveyslautakunnassa.
+
+Ohjausryhmän näkemyksen mukaisesti hanke on muuttuneesta tilanteesta huolimatta erittäin tärkeä. Potilaiden liikkuminen yli kunta- ja organisaatiorajojen edellyttää ajantasaisia potilas- ja asiakastietoja. Potilaiden ja henkilöstön liikkuvuus tulevat lähivuosina merkittävästi lisääntymään ja tarve yhteiselle järjestelmälle on ilmeinen.
+
+Hankintaa on tähän asti valmistellut hankintarengas, jonka osapuolina ovat Helsingin ja Uudenmaan sairaanhoitopiiri, Helsingin, Espoon, Vantaan, Kauniaisten ja Keravan kaupungit sekä Kirkkonummen kunta ja KL-Kuntahankinnat Oy. Espoota lukuunottamatta muut osapuolet hyväksyivät hankintailmoituksen ja pyynnön osallistumishakemusten jättämisestä sekä sopimuksen hankintayhteistyöstä jo viime vuoden puolella.Apotti-hanke on siirtymässä uuteen vaiheeseen, jossa sosiaali- ja terveydenhuollon toiminnan kehittäminen ja hankehallinta muodostuvat koko ajan tärkeämmiksi ja suuremmiksi osiksi hanketta.
+
+Hankkeen johtoon tulee uusi hankejohtaja, millä halutaan vahvistaa osaamista suurten hankkeiden johtamisesta ja läpiviemisestä. Hankejohtaja vastaa hankkeen johtamisesta kokonaisuutena. Nykyisestä hankejohtajasta Antti Iivanaisesta tulee toiminnan kehittämisestä vastaava johtaja. Hankkeen ICT-osaamista lisätään muun muassa nimittämällä hankkeelle tekninen kehitysjohtaja.
+
+”Haluamme vahvistaa Apotti-hankkeen osaamista ja yksinkertaistaa johtamista”, sanoo ohjausryhmän puheenjohtaja, Helsingin sosiaali- ja terveystoimen apulaiskaupunginjohtaja Laura Räty.
+
+Apotti-hankkeen päätavoite
+
+”Apotti-hankkeen päätavoite on toiminnan kehittäminen sujuvammaksi, turvallisemmaksi ja tehokkaammaksi. Terveydenhuollon ja sosiaalialan ammattilaisten työn pitää helpottua ja asiakkaiden ja potilaiden palvelujen parantua. Siihen antaa tukea hankittava asiakas- ja potilastietojärjestelmä”, sanoo Antti Iivanainen.  
+
+Kevään 2013 aikana kuntien ja HUSin päättäjät käsittelevät hankintailmoitusta ja hankinta alkaa.Asiakas- ja potilastietojärjestelmähanke Apotin uudeksi hankejohtajaksi valittiin 21.5.2013 tietojenkäsittelyopin filosofian maisteri ja strategisen johtamisen MBA Hannu Välimäki (49).
+
+Välimäellä on pitkä tietohallinnon ja tietotuotannon johtamiskokemus sekä kotimaisissa että kansainvälisissä hankkeissa. Tehtävään hän tulee Keravan sosiaali- ja terveystoimen kehittämispäällikön paikalta. Apotissa Välimäkeä odottaa laaja tehtäväkenttä, johon kuuluu muun muassa vastuu hankkeen muutosjohtamisesta sekä yhteyksistä osallistujakuntien organisaatioihin ja muihin sidosryhmiin.
+
+”Apotti- hanke on yksi maan suurimmista tietojärjestelmähankinnoista, johon liittyy sosiaali- ja terveydenhuollon ja erikoissairaanhoidon toiminnan yhteensovittaminen. Tämä tulee näkymään sujuvampana toimintana niin asukkaiden kuin sosiaali- ja terveydenhuollon ammattilaistenkin näkökulmasta.”
+
+”Olen luottavainen, että saamme hankkeen parissa työskentelevien kuntien sekä HUS:n ja hanketoimistossa työskentelevän ydintiimin asiantuntemuksella aikaiseksi aivan uudenlaisen toimintatavan ja sitä joustavasti tukevan työvälineen. Hankkeen johtaminen vaatii nyt tiivistä työskentelyä, jotta pääsemme nopeasti käynnistämään hankinnan neuvotteluvaihetta”, uusi hankejohtaja Hannu Välimäki summaa.
+
+Välimäki aloittaa työssään 29.5.2013. Samalla Apotin nykyinen hankejohtaja, lääketieteen tohtori Antti Iivanainen siirtyy Apotti-hankkeen toiminnan kehittämisjohtajaksi.
+
+Hankejohtajaksi haki 32 henkilöä. Lisäksi suorahaun kautta haastateltiin kolmea ehdokasta.Helsingin, Vantaan, Kauniaisten kaupungit, Kirkkonummen kunta sekä Helsingin ja Uudenmaan sairaanhoitopiiri (HUS) valmistautuvat yhdessä uuden asiakas- ja potilastietojärjestelmäpalvelun hankintaan. Hankinta alkaa loppukesästä 2013 ja se tulee olemaan suurimpia Suomessa tehtyjä sosiaali- ja terveysalan tietojärjestelmähankintoja.
+
+Tietojärjestelmän hankinta on osa laajempaa hankekokonaisuutta, jossa sosiaali- ja terveydenhuollon palveluja ja toimintaa kehitetään.
+
+Kunnat ja HUS ovat muodostaneet hankintarenkaan. Hankintarenkaaseen kuuluu myös KL-Kuntahankinnat Oy, joka edustaa hankintarenkaan ulkopuolisia HUS-kuntia hankinnassa.
+
+Jokaisen kaupungin, kunnan ja HUSin on tehtävä päätös, lähteekö mukaan hankintaan. 
+
+Neuvottelumenettely kestää vuoden 2013 loppuun
+
+Hankinta tehdään neuvottelumenettelyllä. Ehdokkaiden mahdollisesta karsinnasta neuvotteluvaiheen aikana ja lopullisesta hankintasopimuksesta päättävät kaupungit, kunnat ja HUS erikseen.
+
+Tavoitteena on, että tietojärjestelmän toimittaja valitaan vuoden 2013 lopulla. Uuden asiakas- ja potilastietojärjestelmän käyttöönotto tapahtuisi porrastettuna siten, että se olisi käytössä vuoden 2017 alussa.
+
+Hanketoimistossa on alojen erityisosaamista
+
+Kuntien ja HUSin kesken on sovittu, että hankkeen isäntäkaupunkina toimii Helsinki. Hankejohtajana toimii Hannu Välimäki.
+
+Hankintaa valmistelemaan on perustettu hanketoimisto, jossa työskentelee sosiaali- ja terveydenhuoltoalan, tietohallinnon sekä juridiikan ammattilaisia.
+
+Hankkeen ohjausryhmässä ovat mukana kuntien ja HUSin sosiaali- ja terveystoimen johtohenkilöt. Ohjausryhmän puheenjohtaja on Helsingin apulaiskaupunginjohtaja Laura Räty ja varapuheenjohtaja Vantaan apulaiskaupunginjohtaja Jukka T. Salminen.
+
+Aikataulusuunnitelma:
+
+Hankintailmoitus Hilmassa elokuun 2013 aikana internet-osoitteessaAsiakas- ja potilastietojärjestelmähanke Apotin ohjausryhmä ehdottaa, että helmikuussa 2014 alkaviin neuvotteluihin valitaan kuusi järjestelmätoimittajaa. Lopullisen päätöksen tämän esityksen perusteella tekevät Apotti-hankintarenkaan jäsenet HUS, Helsinki, Vantaa, Kirkkonummi ja Kauniainen sekä
+KL-Kuntahankinnat Oy omien päätöksentekomekanismiensa mukaisesti joulukuun aikana.
+
+Neuvotteluihin ehdotettavat toimittajat ovat aakkosjärjestyksessä:
+
+Atos IT Solutions and Services Oy,
+CGI Suomi Oy,
+Epic Systems Corporation,
+IBM Finland Oy Ab,
+InterSystems Corporation,
+Tieto Healthcare & Welfare Oy.
+ 
+
+Vertailuperusteena valinnassa on tässä vaiheessa käytetty ehdokkaiden aikaisempaa kokemusta sisällöltään ja kokoluokaltaan vastaavista asiakas- ja/tai potilastietojärjestelmän toimituksista.
+
+”Saimme kymmenen erittäin hyvää hakemusta. Kaikki hakemuksen jättäneet olivat potentiaalisia ehdokkaita uuden asiakas- ja potilastietojärjestelmän toimittajiksi. Neuvotteluihin ehdottamamme toimittajat edustavat maailman parhaimpia tämän alan järjestelmiä ja tarjoavat kukin hieman erilaisen ratkaisumallin visiomme mukaisen tavoitteen saavuttamiseen. Näin ollen haluamme hankintamenettelyn seuraavassa vaiheessa jatkaa keskustelua mahdollisimman monen ehdokkaan kanssa, jotta takaamme parhaan mahdollisen laadullisen ja kokonaistaloudellisen lopputuloksen”,  kertoo Apotin hankejohtaja Hannu Välimäki.
+
+Sopimus valitun järjestelmätoimittajan kanssa solmitaan viimeistään alkuvuodesta 2015. Valinta tehdään muun muassa järjestelmien konfiguroitavuuden, käytettävyyden, sisällön laajuuden ja hinnan perusteella. Valinnan perusteet tarkentuvat hankintamenettelyn aikana.Apotti-hankintarenkaan jäsenet Helsinki, Vantaa, Kauniainen, Kirkkonummi ja HUS päättivät loppuvuodesta 2013 valita kuusi järjestelmätoimittajaa hankintaneuvotteluihin. Valitut toimittajat ovat:
+
+Atos IT Solutions and Services Oy,
+CGI Suomi Oy,
+Epic Systems Corporation,
+IBM Finland Oy Ab,
+InterSystems Corporation,
+Tieto Healthcare & Welfare Oy.
+
+Osallistumishakemuksen jättänyt Indra Sistemas S.A ja Affecto Finland Oy -yhteenliittymä on valittanut päätöksistä markkinaoikeuteen sekä tehnyt hankintaoikaisupyynnön kullekin Apotti-jäsenorganisaatiolle. Yhteenliittymä on vaatinut muun muassa hankintamenettelyn keskeyttämistä.
+
+”Mielestämme valitus on perusteeton, ja tulemme vaatimaan markkinaoikeudelta valituksen hylkäämistä. Lisäksi pyydämme viipymättä markkinaoikeudelta lupaa jatkaa hankintamenettelyä suunnitellusti”, toteaa Apotin hankejohtaja Hannu Välimäki.
+
+Ennen markkinaoikeuden ratkaisua hankintamenettelyn jatkamisesta hanketoimisto jatkaa neuvottelumateriaalin valmistelua aiemman suunnitelman mukaisesti.Asiakas- ja potilastietojärjestelmä Apotin ohjausryhmä esittää, että Apotin syksyn 2014 jatkoneuvotteluihin valitaan CGI Suomi Oy sekä Epic Systems Corporation. Ohjausryhmä teki päätöksensä kevään tuotevertailujen perusteella.
+
+Tuotevertailuissa noin sata lähinnä sosiaalihuollon ja terveydenhuollon ammattilaista pisteytti eri tarjoajien järjestelmiä Apotin laatimien käyttäjätarinoiden pohjalta. CGI:n ja Epicin ratkaisut saivat vertailuissa korkeimmat pisteet.
+
+Päätöskierros hankintarenkaassa alkaa
+
+Apotin hankintarenkaan jäsenet päättävät kukin erikseen omia päätöksentekosääntöjään noudattaen CGI:n ja Epicin valinnasta. Asia on päätettävänä Helsingissä, Vantaalla, Kauniaisissa, HUS:ssa sekä KL-Kuntahankinnat Oy:ssä 11. elokuuta. Kirkkonummi päättää asiasta perusturvalautakuntansa kokouksessa 28. elokuuta.
+
+Hankintamenettelyssä jatkavien tarjoajien kanssa käydään syksyllä toinen neuvottelukierros sekä uudet tuotevertailut. Järjestelmän toimittaja valitaan näiden perusteella.
+
+Kevään neuvotteluissa neljä ehdokasta
+
+Kevään tuotevertailuissa ja neuvotteluissa oli alun perin mukana neljä järjestelmätoimittajaa: Atos IT Solutions & Services, CGI Suomi Oy, Epic Systems Corporation sekä Tieto Healthcare & Welfare Oy. Näistä Atos ilmoitti kesäkuussa vetäytyvänsä hankintamenettelystä. Tiedon tarjoama ratkaisu ei täytä ratkaisulle asetettuja vähimmäisvaatimuksia, joten Tietoa ei voida ehdottaa valittavaksi jatkoon.Apotti-hankinnan tarjouspyynnöstä päätökset maalis- ja huhtikuussa
+
+Asiakas- ja potilastietojärjestelmän eli Apotti-hankinnan lopullisen tarjouspyynnön hyväksyminen käsitellään HUS:n sekä Helsingin, Vantaan, Kauniaisten ja Kirkkonummen päätöksentekoelimissä ja KL-Kuntahankinnoissa maalis- ja huhtikuussa 2015.
+
+Tarjouspyyntö liitteineen sisältää hieman vajaat 2000 sivua käsittävän asiakirja-aineiston ja se lähetetään tarjoajille sen jälkeen, kun yllä mainitut hyväksymiset on tehty. Mukana olevat tarjoajat ovat CGI ja Epic, jotka Apotin ohjausryhmä päätti esittää elokuussa 2014 jatkoneuvotteluihin keväällä tehtyjen tuotevertailujen perusteella. Tarjouspyynnössä ehdokkailta pyydetään lopulliset tarjoukset, joiden perusteella tietojärjestelmän toimittaja valitaan.
+
+Epic käytti alkuperäisessä hankintailmoituksessa kuvatulla tavalla tarjoajille varattua oikeutta tarkentaa tarjoamaansa ratkaisua neuvottelumenettelyn aikana. Hankinnan ehtoja määritellessään hankintayksiköt varasivat oikeuden tehdä tarkennetulle ratkaisukokonaisuudelle vastaavuusarviointi, jolla todennetaan, että myös tarkennettu ratkaisu vastaa toiminnallisuudeltaan vähintään samaa testattua tasoa kuin aiemmissa vaiheissa testattu ratkaisu.
+
+Päätöksentekoelinten käsittelyyn tulee tarjouspyynnön lisäksi näin ollen myös päätös Epicin toteutustavan osittaiseen vaihdokseen liittyvästä vastaavuusarvioinnista.
+
+Päätöksentekoaikataulu
+
+Asiakas- ja potilastietojärjestelmän hankintaa koskevan tarjouspyynnön hyväksyminen käsitellään hankintarenkaan päätöksentekoelimissä seuraavasti: HUS:n hallituksessa 23.3.2015 ja sitä ennen HUS:n talous- ja konsernijaostossa 16.3.2015 (jaoston esityslistalle tästä), Helsingin sosiaali- ja terveyslautakunnassa 24.3., Vantaan kaupunginhallituksessa 23.3., Kauniaisten kaupunginhallituksessa 25.3., Kirkkonummen perusturvalautakunnassa 26.3. ja KL-Kuntahankinnassa 23.3. jälkeen.
+
+Lopullinen päätös hankinnasta tehdään syksyllä 2015. Välittömästi sen jälkeen aloitetaan toteutusprojekti, jonka aikana mm. mukautetaan valittu asiakas- ja potilastietojärjestelmäratkaisu vaatimuksia ja prosesseja vastaavaksi, toteutetaan tarvittavat integraatiot kansallisiin, alueellisiin ja paikallisiin järjestelmiin, aloitetaan koulutukset jne.   Pilottikäyttö aloitetaan vuonna 2017 ja koko järjestelmän käyttöönotto hankintarenkaan jäsenille tehdään sen jälkeen porrastetusti 2017–2019.
+
+Ensimmäinen maailmassa
+
+Apotin kokonaisuus on maailman ensimmäinen sosiaali- ja terveydenhuollon yhteinen tietojärjestelmä. Se kattaa n. 1,6 miljoonan asukkaan väestön. Järjestelmä korvaa noin 50 nyt käytössä olevaa erillistä järjestelmää ja se mahdollistaa nykyistä yhtenäisemmän ja kustannustehokkaamman sosiaalihuollon, perusterveydenhuollon ja erikoissairaanhoidon toiminnan ja sen ohjauksen. Siihen kuuluu myös toimivat sähköisen asioinnin palvelut ja siten asiakastietojen reaaliaikaisuus palvelu- ja hoitopaikasta riippumatta. Apotin yksi keskeisiä vaatimuksia on myös asiakas- ja potilasturvallisuuden varmistaminen.
+
+Järjestelmän laskennalliset kokonaiskustannukset 10 vuoden ajalle ovat 335–430 miljoonaa euroa.  Kustannukset muodostuvat hankintahinnan lisäksi toteutus- ja käyttöönottokustannuksista, vanhojen tietojen siirtämisestä sekä vuosittaisista käyttö- ja kehittämiskustannuksista. Järjestelmän arvioidaan maksavan itsensä takaisin 6–8 vuodessa. Hankinnasta aiheutuvat kustannukset jaetaan hankinnan valmistelusta vastaavien kesken siten, että kunnat maksavat niistä 50 prosenttia asukaslukunsa mukaisessa suhteessa ja HUS 50 prosenttia. Käyttöönotto- ja käyttövaiheen kustannusten jaosta sovitaan myöhemmin. Kustannuksia voidaan jakaa esimerkiksi käyttäjämäärän perusteella. Tällä hetkellä Helsingin, Vantaan, Kauniaisten, Kirkkonummen ja HUS:n käytössä olevien potilas- ja asiakastietojärjestelmien vuosikustannukset ovat yhteensä noin 45 miljoonaa euroa.
+
+Järjestelmän käyttöönotto ja tuotantokäyttövaihetta varten perustetaan työnimellä Apotti Oy kulkeva osakeyhtiö, joka myös vastaa mm. järjestelmän tarvitsemien käyttöpalvelujen kilpailuttamisesta erikseen.
+
+Apotti-hankintaa varten perustetun hankintarenkaan jäsenkunnat sekä HUS päättävät tarjousten jättämisen jälkeen varsinaisesta hankinnasta jokainen omalta osaltaan. KL-Kuntahankinnat Oy on mukana hankintarenkaassa, jotta muut HUS kunnat voivat hankkia järjestelmän myöhemmin käyttöönsä ilman erillistä kilpailutusta. Tämä mahdollistaa Apotti-järjestelmän käyttöönoton myöhemmin huomattavasti laajemmassa mittakaavassa Uudenmaan alueella.Apotin hankintamenettelyssä jäljellä olevat tarjoajat CGI Suomi Oy ja Epic Systems Corporation jättivät molemmat tarjouksensa määräaikaan 22. kesäkuuta klo 12.00 mennessä. Hyvin laajoja tarjousdokumentteja aletaan nyt käydä huolellisesti läpi, minkä jälkeen hankkeen ohjausryhmä tekee päätösehdotuksen valittavasta järjestelmätoimittajasta elokuussa. Päätösehdotus perustuu pisteytykseen joka määräytyy hinnan, tuotteiden ominaisuuksien, käytettävyyden ja toiminnallisuuden laajuuden, käyttöönottokyvykkyyden, ratkaisun avoimuuden ja ylläpidettävyyden perusteella.
+
+Hankintarenkaan jäsenet Helsinki, Vantaa, Kauniainen, Kirkkonummi ja HUS päättävät valittavasta toimittajasta elo–syyskuun aikana. Mikäli päätöskierros sujuu ongelmitta, sopimus tulevan toimittajan kanssa allekirjoitetaan marraskuussa muutoksenhakuajan ja sopimuksen viimeistelyn jälkeen.
+ 
+
+Markkinaoikeus hylkäsi CGI:n valitukset
+
+Apotti etenee myös niiltä osin, että markkinaoikeus hylkäsi juhannusviikolla CGI:n Apotti-hankintaan liittyvät valitukset, jotka koskivat Epicin tekemää muutosta teknologiavalintaansa sekä päätöksiä vastaavuusarvioinnin tuloksista. Lisäksi markkinaoikeus jätti tutkimatta aiemmin hankintamenettelyn ulkopuolelle suljetun Tieto Healthcare & Welfare Oy:n tekemän hanketta koskevan valituksen.
+
+”Tämä oli meille odotettu ratkaisu, sillä olemme alusta pitäen katsoneet, että olemme toimineet hankintamenettelyn aikana oikealla tavalla ja kohdelleet tarjoajia yhdenvertaisesti. Valitukset ovat perusteettomasti rasittaneet hankintamenettelyä ja aiheuttaneet paljon ylimääräistä työtä. Markkinaoikeuden päätöksen jälkeen pääsemme nyt jatkamaan hankintaa sekä siirtymään tuotanto- ja käyttöönottovaiheeseen suunnitellusti”, toteaa Apotin hankejohtaja Hannu Välimäki.Apotin hankintamenettelyssä jäljellä olevat tarjoajat CGI Suomi Oy ja Epic Systems Corporation jättivät molemmat tarjouksensa määräaikaan 22. kesäkuuta klo 12.00 mennessä. Hyvin laajoja tarjousdokumentteja aletaan nyt käydä huolellisesti läpi, minkä jälkeen hankkeen ohjausryhmä tekee päätösehdotuksen valittavasta järjestelmätoimittajasta elokuussa. Päätösehdotus perustuu pisteytykseen joka määräytyy hinnan, tuotteiden ominaisuuksien, käytettävyyden ja toiminnallisuuden laajuuden, käyttöönottokyvykkyyden, ratkaisun avoimuuden ja ylläpidettävyyden perusteella.
+
+Hankintarenkaan jäsenet Helsinki, Vantaa, Kauniainen, Kirkkonummi ja HUS päättävät valittavasta toimittajasta elo–syyskuun aikana. Mikäli päätöskierros sujuu ongelmitta, sopimus tulevan toimittajan kanssa allekirjoitetaan marraskuussa muutoksenhakuajan ja sopimuksen viimeistelyn jälkeen.
+ 
+
+Markkinaoikeus hylkäsi CGI:n valitukset
+
+Apotti etenee myös niiltä osin, että markkinaoikeus hylkäsi juhannusviikolla CGI:n Apotti-hankintaan liittyvät valitukset, jotka koskivat Epicin tekemää muutosta teknologiavalintaansa sekä päätöksiä vastaavuusarvioinnin tuloksista. Lisäksi markkinaoikeus jätti tutkimatta aiemmin hankintamenettelyn ulkopuolelle suljetun Tieto Healthcare & Welfare Oy:n tekemän hanketta koskevan valituksen.
+
+”Tämä oli meille odotettu ratkaisu, sillä olemme alusta pitäen katsoneet, että olemme toimineet hankintamenettelyn aikana oikealla tavalla ja kohdelleet tarjoajia yhdenvertaisesti. Valitukset ovat perusteettomasti rasittaneet hankintamenettelyä ja aiheuttaneet paljon ylimääräistä työtä. Markkinaoikeuden päätöksen jälkeen pääsemme nyt jatkamaan hankintaa sekä siirtymään tuotanto- ja käyttöönottovaiheeseen suunnitellusti”, toteaa Apotin hankejohtaja Hannu Välimäki.

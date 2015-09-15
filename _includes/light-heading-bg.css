@@ -1,0 +1,7 @@
+.post-heading > h1, .post-heading > h2, .post-heading > .meta {
+	opacity: 0.7;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
