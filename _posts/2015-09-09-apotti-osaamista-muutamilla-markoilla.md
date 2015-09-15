@@ -146,6 +146,8 @@ Muuttelemalla ohjelmakoodin riviä `m.generate_markov_text(500)` saat generoitua
 
 ## Huomioita
 
+Generoituani "sitaattitekstin" tätä artikkelia varten, poistin siitä tekstin alkuun ja loppuun tyypillisesti jäävät vaillinaiset/keskeneräiset virkkeet. Kappalejaon lisäsin myös käsin ja jonkun yksittäisen kappaleen loppun tulevan pisteen. Muuten teksti on "sitaateissa" suoraan Markov-ketjun lähdeaineistosta generoimaa.
+
 Mikäli suoritat edellä listatun ohjelmakoodin samalla lähtöaineistolla, et silti saa samaa lopputulosta jonka itse sain. Tämä johtuu siitä, että prosessi ajetaan satunnaisilla lähtöarvoilla ja jokaista sanaa valitessa tehdään valinta seuraavasta sanasta (näennäis)satunnaisesti mahdollisten sanavaihtoehtojen joukosta.
 
 ## Lopetussanat
