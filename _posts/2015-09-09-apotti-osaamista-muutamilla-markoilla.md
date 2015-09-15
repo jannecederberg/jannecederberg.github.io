@@ -58,7 +58,7 @@ Tämän artikkelin tarkoituksena on viestittää Apotti-hankkeeseen liittyvää 
 
 ## Lähdeaineisto (corpus)
 
-Lähdeaineistona käytin tosiaan Apotti-hankeryhmän virallisia tiedotteita aikaväliltä 6.9.2012-23.6.2015. [Lataa tiedoteaineisto](/files/apotti-tiedotteet_20120906-20150623.txt) yhdessä tiedostossa tekstimuodossa.
+Kuten edellä välillisesti jo viitattu, käytin lähdeaineistona [Apotti-hankeryhmän virallisia tiedotteita][tiedotteet] aikaväliltä 6.9.2012-23.6.2015. [Lataa tiedoteaineisto](/files/apotti-tiedotteet_20120906-20150623.txt) yhdessä tiedostossa tekstimuodossa.
 
 ## Ohjelmakoodia
 
