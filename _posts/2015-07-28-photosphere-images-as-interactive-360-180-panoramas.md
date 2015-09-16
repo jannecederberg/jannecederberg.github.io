@@ -88,7 +88,7 @@ That's all for now :)
 <script src="/js/photo-sphere-viewer.js"></script>
 <script>
 window.onload = function() {
-    loadPredefinedPanorama('panorama1', '/img/2015-07-28_photosphere_example.jpg');
+    loadPredefinedPanorama('panorama1', '/img/panoramas/2015-07-28_photosphere_example.jpg');
     loadPredefinedPanorama('panorama2', '{{ site.post-headers-dir }}/2015-07-28.jpg');
     document.getElementById('panorama-selector').addEventListener('change', upload, false);
 };
