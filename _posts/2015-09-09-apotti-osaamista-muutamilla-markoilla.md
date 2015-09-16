@@ -43,7 +43,7 @@ Lopullisen tarjouspyynnön hyväksyminen:
 
 ## Kyllä, tämä artikkeli on vitsi
 
-Luin eilen [Lilja Tammisen][liljat] artikkelin [Apotti-järjestelmään][liljat-apotti] liittyen. Olen seurannut aihetta väljästi sen pari vuotta kun se on ajoittain ollut pinnalla.
+Luin eilen [Lilja Tammisen][liljat] artikkelin [Apotti-järjestelmään][liljat-apotti] liittyen. Olen seurannut aihetta väljästi sen pari vuotta kun se on ajoittain ollut pinnalla. Vilkaise esim. [agile.fi:n artikkeli Apotti-järjestelmästä][agile-apotti].
 
 Tämän artikkelin tarkoituksena on viestittää Apotti-hankkeeseen liittyvää absurdiutta. Artikkelin lainaukset eivät ole todellisia lainauksia mistään; ne on luotu käyttämällä [Markovin ketjuja][markovin-ketju] ([Markov chain][markov-chain]), joiden avulla annetusta tekstiaineistosta voi tuottaa päällisin puolin järkevän näköistä tekstiä, jossa ei kuitenkaan käytännössä ole juurikaan järkevää sisältöä...samoin kuin vaikuttaisi olevan Apotti-järjestelmän suhteen.
 
@@ -169,3 +169,4 @@ Apotti-järjestelmän kehittäminen 1960-luvulla kehitetyn tietojärjestelmän p
 [raaj]: http://agiliq.com/blog/2009/06/generating-pseudo-random-text-with-markov-chains-u/
 [python]: https://www.python.org/downloads/
 [kuva]: https://www.flickr.com/photos/29707865@N05/2780508266/in/photolist-5eGQeG-8CExD3-3yL2ur-6rmstp-eoKTfj-D2Gaj-c4Rw4G-cdx6N3-9bfGvL-5WksQ6-8xyKpN-5a3U9C-nGtSb-e1L6W4-bTci2-4nasi8-398sRb-cvL8q1-dpHVtD-8uts1c-6eBt8y-8xeJPs-4kQjs2-4CvS3s-7iNtsT-iqKpmj-hzfMXc-9Z1sVW-pqxcb-72j5yj-7JgWR3-4HmEfn-7A8Nn4-dM5ip5-pgt9dm-6xFWc6-3AG48-3PiCZ2-aLUUMe-d2LRVu-9bFkti-8CKsop-9C3cjy-gjAsrq-5kqub3-gvMnZ-7jf2C5-nXMLQ-821yG4-4vTpFL
+[agile-apotti]: http://agile.fi/how-apotti-will-fail-and-how-to-save-it/
