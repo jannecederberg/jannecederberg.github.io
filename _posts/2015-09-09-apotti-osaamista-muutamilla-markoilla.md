@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Apotti-osaamista muutamilla marko(v)illa"
-subtitle:   "koska Suomessahan hommat osataan!"
+subtitle:   "koska Suomessahan hommat osataan"
 date:       2015-09-09 10:00:00
 header-img: "img/post_2015-09-09.jpg"
 light-heading: true
@@ -13,7 +13,7 @@ Apotti-hanke on [saanut itselleen logon][logo]. Hyvä! Nyt voi paremmin markkino
 
 > Apotti-hanke on 10 vuoden puolella. Apotti-hanke on alojen erityisosaamista Kuntien ja niiden perusteella tietojärjestelmän toimittaja valitaan näiden perusteella. Hankintarenkaan jäsenet päättävät valittavasta toimittajasta elo–syyskuun aikana. Neuvotteluihin ehdotettavat toimittajat ovat 335–430 miljoonaa euroa kymmenessä vuodessa. Hankinnasta aiheutuvat kustannukset jaetaan hankinnan valmistelusta vastaavien kesken siten, että hankkeen ohjausryhmä päätti esittää elokuussa 2014 jatkoneuvotteluihin keväällä tehtyjen tuotevertailujen perusteella.
 
-Internet-osoitteessa asiakas- ja hoitopaikasta riippumatta:
+Asiakastietojen reaaliaikaisuus palvelu- ja toimintaa kehitetään:
 
 > Kevään 2013 ja terveydenhuollon palveluja ja siten asiakastietojen reaaliaikaisuus palvelu- ja toimintaa kehitetään. Viron järjestelmä on 10 vuoden kustannukset vähenevät Hanketoimiston teettämän kustannushyötyanalyysin mukaan sosiaalihuollon, perusterveydenhuollon ja HUSilla on vaatinut muun muassa järjestelmien kulut ovat kuitenkin välttämättömiä muun muassa vastuu hankkeen muutosjohtamisesta sekä sosiaalihuollon ja niiden hyödyntäminen hoitoketjujen ohjailussa eivät siirry järjestelmien välillä riittävästi, jotta takaamme parhaan mahdollisen laadullisen ja arkistointipalvelu. ”Virossakin terveydenhuollon palveluja ja paikallisiin järjestelmiin, aloitetaan toteutusprojekti, jonka aikana internet-osoitteessa asiakas- ja hoitopaikasta riippumatta.
 
