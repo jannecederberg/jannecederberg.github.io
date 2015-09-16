@@ -3,7 +3,7 @@ layout:     post
 title:      Getting postal codes for Finnish addresses
 subtitle:   and automating the process using Python
 date:       2015-05-03 14:25:00
-header-img: "img/post_2015-05-03.jpg"
+header-img: "2015-05-03.jpg"
 ---
 
 ## Background

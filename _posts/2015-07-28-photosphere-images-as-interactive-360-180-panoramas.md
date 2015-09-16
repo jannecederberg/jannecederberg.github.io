@@ -3,7 +3,7 @@ layout:     post
 title:      "PhotoSphere images as interactive 360&deg; by 180&deg; panoramas"
 subtitle:   "It's like pouring a jar of awesome-sauce on panorama images!"
 date:       2015-07-28 14:30:00
-header-img: "img/post_2015-07-28.jpg"
+header-img: "2015-07-28.jpg"
 ---
 
 ## TL;DR
@@ -88,8 +88,8 @@ That's all for now :)
 <script src="/js/photo-sphere-viewer.js"></script>
 <script>
 window.onload = function() {
-    loadPredefinedPanorama('panorama1', '/img/post_2015-07-28_photosphere_example.jpg');
-    loadPredefinedPanorama('panorama2', '/img/post_2015-07-28.jpg');
+    loadPredefinedPanorama('panorama1', '/img/2015-07-28_photosphere_example.jpg');
+    loadPredefinedPanorama('panorama2', '{{ site.post-headers-dir }}/2015-07-28.jpg');
     document.getElementById('panorama-selector').addEventListener('change', upload, false);
 };
 
