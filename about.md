@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: An attempt to define myself in a few words.
-header-img: "img/bg-about.jpg"
+header-img: "bg-about.jpg"
 ---
 
 Greetings friend! You’ve reached the personal website of [Janne Cederberg][twitter], the founder of [Opetus.tv][otv], which is kind of like Khan Academy but in Finnish, based on Finnish curriculum and created without outside funding. Our content is of higher pedagogical and technical quality than Khan Academy’s.
