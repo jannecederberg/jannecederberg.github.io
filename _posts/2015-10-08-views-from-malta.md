@@ -4,7 +4,14 @@ title:      Views from Malta
 subtitle:   "Warm, humid, pretty, and quite urban/asphalty"
 date:       2015-10-08 13:00:00
 header-img: 2015-10-08_1.jpg
-header-img-extras: 2015-10-08_2.jpg,2015-10-08_3.jpg,2015-10-08_4.jpg,2015-10-08_5.jpg,2015-10-08_6.jpg,2015-10-08_7.jpg,2015-10-08_8.jpg
+header-img-extras:
+    - 2015-10-08_2.jpg
+    - 2015-10-08_3.jpg
+    - 2015-10-08_4.jpg
+    - 2015-10-08_5.jpg
+    - 2015-10-08_6.jpg
+    - 2015-10-08_7.jpg
+    - 2015-10-08_8.jpg
 ---
 
 [Friend of mine](https://twitter.com/caapoe) has been working in Malta since spring 2015. Since I had the possibility, I "transferred" my office to his living room for 10 days in mid-September. Mostly during the mornings I did work related stuff and then during afternoons went to look around Malta, both walking and by public transport.
