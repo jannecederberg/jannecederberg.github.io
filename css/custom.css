@@ -1,0 +1,12 @@
+#disqus_thread a {
+  text-decoration: underline;
+}
+.container li a { text-decoration: underline; }
+
+.intro-header {
+  -webkit-transition: background-image 2s ease-in-out;
+  -moz-transition: background-image 2s ease-in-out;
+  -ms-transition: background-image 2s ease-in-out;
+  -o-transition: background-image 2s ease-in-out;
+  transition: background-image 2s ease-in-out;
+}
