@@ -61,7 +61,8 @@ Nowadays the "balcony" guard rail is full of love-locks which you can only parti
 
 ## In summary
 
-It was cool to take a change of scenario (even though I was still working) and go for a visit to Malta, a place I had never visited before. To my taste at was a bit too asphalty and not much of green/grass but I guess that's understandable considering the climate. One thing I didn't do was taking the ferry to Sicily. Maybe next time.
+It was cool to take a change of scenario (even though I was still working) and go for a visit to Malta, a place I had never visited before. One thing I didn't do was taking the ferry to Sicily. Maybe next time.
+
 
 <script src="/js/three.min.js"></script>
 <script src="/js/photo-sphere-viewer.js"></script>
