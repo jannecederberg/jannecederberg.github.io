@@ -30,8 +30,8 @@
     <link rel="stylesheet" href="{{ "/css/custom.css" | prepend: site.baseurl }}">
     <!-- OpenGraph -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="{{ page.title }}" />
-    {% if page.subtitle %}<meta property="og:description" content="{{ page.subtitle }}" />{% endif %}
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}" />{% endif %}
     <meta property="og:image" content="{{ site.url }}{{ site.headers-dir }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" />
     {% for img in page.header-img-extras %}
     <meta property="og:image" content="{{ site.url}}{{ site.headers-dir }}/{{ img }}" />
