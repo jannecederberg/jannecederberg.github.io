@@ -4,6 +4,7 @@ title:      Our deepest fear is not that we are inadequate
 subtitle:   ...but that we are powerful beyond measure
 date:       2015-10-21 10:00:00
 header-img: 2015-10-21.jpg
+header-img-mobile: 2015-10-21_640px.jpg
 light-heading: true
 ---
 
