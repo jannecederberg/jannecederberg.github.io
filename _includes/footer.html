@@ -87,5 +87,7 @@
 
 </script>
 
+{% if page.header-img-extras %}
 <!-- Rotate headers -->
-{% if page.header-img-extras %}<script src="{{ "/js/rotate-header.js" | prepend: site.baseurl }}"></script>{% endif %}
+<script src="{{ "/js/rotate-header.js" | prepend: site.baseurl }}"></script>
+{% endif %}
