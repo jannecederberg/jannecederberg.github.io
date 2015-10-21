@@ -5,7 +5,7 @@ var header_path   = '/img/headers/';
 var header_rotate_interval = 5000;
 
 function setHeader(img) {
-	$('.intro-header').css({'background-image': 'url(/img/headers/'+img.trim()+')'});
+	$('.intro-header').css({'background-image': 'url('+header_path+img.trim()+')'});
 }
 
 $.fn.preload = function() {
