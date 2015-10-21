@@ -5,6 +5,7 @@ subtitle:   "Warm, humid, pretty, and quite urban/asphalty"
 date:       2015-10-08 13:00:00
 header-img: 2015-10-08_1.jpg
 header-img-extras:
+    - 2015-10-08_1.jpg
     - 2015-10-08_2.jpg
     - 2015-10-08_3.jpg
     - 2015-10-08_4.jpg
