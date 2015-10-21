@@ -22,7 +22,7 @@ Watching the video also brought to my mind another topic -or actually a quote- t
 
 The quote has been used (with slight variations) for example in several movies, including [Invictus](http://www.imdb.com/title/tt1057500/) (2009) and [Coach Carter](http://www.imdb.com/title/tt0393162/) (2005), both of which I would warmly recommend.
 
-So in summary, don't let circumstances or preconceived notions of others dictate what you can do or who you can be. You're awesome, don't forget that :)
+So in summary, don't let circumstances or preconceived notions of others dictate what you can do or who you can be. You're awesome :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8jhcxOhIMAQ" frameborder="0" allowfullscreen></iframe>
 
