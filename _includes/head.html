@@ -32,13 +32,12 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}" />
     {% if page.subtitle %}<meta property="og:description" content="{{ page.subtitle }}" />{% endif %}
-    {% if page.header-img %}
-        <meta property="og:image" content="{{ site.url }}{{ site.headers-dir }}/{{ page.header-img }}" />
-        {% for img in page.header-img-extras %}
-        <meta property="og:image" content="{{ site.url}}{{ site.headers-dir }}/{{ img }}" />
-        {% endfor %}
-        <meta property="og:image:type" content="image/jpeg" />
-    {% endif %}<!-- end OpenGraph -->
+    <meta property="og:image" content="{{ site.url }}{{ site.headers-dir }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" />
+    {% for img in page.header-img-extras %}
+    <meta property="og:image" content="{{ site.url}}{{ site.headers-dir }}/{{ img }}" />
+    {% endfor %}
+    <meta property="og:image:type" content="image/jpeg" />
+    <!-- end OpenGraph -->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
