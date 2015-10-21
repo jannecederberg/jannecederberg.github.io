@@ -3,6 +3,7 @@ title: Janne Cederberg
 headers-dir: "/img/headers"
 panoramas-dir: "/img/panoramas"
 header-img: "bg-home.jpg"
+header-img-mobile: "bg-home_640px.jpg"
 email: janne.cederberg@gmail.com
 description: "The founder of Opetus.tv, a site like Khan Academy but with Finnish content based on Finnish curriculum, thousands of videos and no outside funding."
 baseurl: ""

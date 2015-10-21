@@ -4,11 +4,11 @@
 	{% if page.header-img-mobile %}
 	background-image: url('{{ site.baseurl }}{{ site.headers-dir}}/{{ page.header-img-mobile }}');
 	{% else %}
-	background-image: url('{{ site.baseurl }}{{ site.headers-dir}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
+	background-image: url('{{ site.baseurl }}{{ site.headers-dir}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img-mobile }}{% endif %}');
 	{% endif %}
 }
 
-/* For devices 480px and larger: */
+/* For larger devices */
 @media only screen and (min-device-width: 768px) {
     .intro-header { 
         background-image: url('{{ site.baseurl }}{{ site.headers-dir}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}'); 
