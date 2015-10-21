@@ -2,7 +2,8 @@
 layout: page
 title: References
 description: "This is what I've done so far."
-header-img: "bg-references.jpg"
+header-img: bg-references.jpg
+header-img-mobile: bg-references_640px.jpg
 light-heading: true
 ---
 

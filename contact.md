@@ -2,7 +2,8 @@
 layout: page
 title: "Contact"
 description: "Have questions? I have answers (maybe)."
-header-img: "bg-contact.jpg"
+header-img: bg-contact.jpg
+header-img-mobile: bg-contact_640px.jpg
 ---
 
 <div class="row">
