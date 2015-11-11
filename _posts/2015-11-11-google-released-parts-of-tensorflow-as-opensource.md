@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Google released parts of TensorFlow as open-source
-subtitle:   Ideas and views looking into the future of artificial intelligence
+subtitle:   Looking into the future of artificial intelligence
 date:       2015-11-11 10:30:00
 header-img: 2015-11-11.jpg
 header-img-mobile: 2015-11-11_mobile.jpg
