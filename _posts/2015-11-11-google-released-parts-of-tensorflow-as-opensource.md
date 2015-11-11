@@ -64,7 +64,7 @@ During spring 2015 I completed Stanford University's 10 week machine learning co
 
 Back in August I [tweeted](https://twitter.com/jannecederberg/status/630191860577923072) about the course and even got a favorited by the official [@BaiduResearch](https://twitter.com/baiduresearch) account!
 
-The course is very well organized and I would definitely recommend it. It does require proficiency in linear algebra (matrix operations) and programming to complete though. It took me approx 6-8 hours of work per week to complete. I do hold a master's degree (theoretical math as major and computer science as minor) though, so with some other background it might require more (or less) time.
+The course is very well organized and I would definitely recommend it. It does require proficiency in linear algebra (matrix operations) and programming to complete though. It took me approx 6-8 hours of work per week to complete. I do hold a master's degree with theoretical math as major and computer science as minor though, so with some other background it might require more (or less) time.
 
 With regards to career choices though, I would guess there's going to be work for people skilled in the area of applying machine learning principals into existing as well as completely new domains.
 
