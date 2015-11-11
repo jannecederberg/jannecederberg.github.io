@@ -8,7 +8,6 @@ header-img-mobile: 2015-11-11_mobile.jpg
 light-heading: true
 ---
 
-## Getting discovered by AI
 
 A week ago on Nov. 3, 2015 I got an email from Madrid, Spain:
 
