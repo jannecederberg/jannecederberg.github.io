@@ -14,7 +14,7 @@ A week ago on Nov. 3, 2015 I got an email from Madrid, Spain:
 
 > "Hi Janne, I am a software engineer and part of the Developer Relations team with [source{d}][sourced], based in Madrid. We are working on improving developer recruitment. We have analyzed your open source contributions on Github and have concluded that your experience could be a good fit for the position of Fullstack Developer at Company XYZ."
 
-I took a look at the website of the head-hunting company the email was sent from, [www.sourced.tech][sourced]:
+I took a look at the website of the head-hunting company, [www.sourced.tech][sourced]:
 
 > "source{d} is a recruitment product built by developers for developers. We analyze over 600 million code contributions in the open source community to match you with the best jobs and contact you only with relevant offers."
 
