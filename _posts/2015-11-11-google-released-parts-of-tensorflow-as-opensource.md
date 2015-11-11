@@ -62,13 +62,11 @@ Most likely this release by Google is not going to slow down the development and
 
 During spring 2015 I completed Stanford University's 10 week machine learning course taught by [Baidu](https://en.wikipedia.org/wiki/Baidu)'s Chief Scientist [Andrew Ng](https://twitter.com/andrewyng) on [Coursera.org](https://www.coursera.org/learn/machine-learning). The course is free and a new run of it will be taught **[Nov. 30, 2015 - Feb. 22, 2016](https://www.coursera.org/learn/machine-learning)**! Consider taking it if you're even remotely interested!
 
-Back in August I [tweeted](https://twitter.com/jannecederberg/status/630191860577923072) about the course and even got a favorite on the tweet from the official [@BaiduResearch](https://twitter.com/baiduresearch) account!
+Back in August I [tweeted](https://twitter.com/jannecederberg/status/630191860577923072) about the course and even got a favorited by the official [@BaiduResearch](https://twitter.com/baiduresearch) account!
 
-The course is very well organized and I would definitely recommend it. It does require proficiency in linear algebra (matrix operations) and programming to complete though. It took me approx 6-8 hours of work per week to complete.
+The course is very well organized and I would definitely recommend it. It does require proficiency in linear algebra (matrix operations) and programming to complete though. It took me approx 6-8 hours of work per week to complete. I do hold a master's degree (theoretical math as major and computer science as minor) though, so with some other background it might require more (or less) time.
 
-I do hold a master's degree with theoretical math as major and computer science as minor though, so with some other background it might require more (or less) time.
-
-And with regards to career choices, I would guess there's going to be work for people skilled in the area of applying machine learning principals into existing as well as completely new domains.
+With regards to career choices though, I would guess there's going to be work for people skilled in the area of applying machine learning principals into existing as well as completely new domains.
 
 ## Comments / questions?
 
