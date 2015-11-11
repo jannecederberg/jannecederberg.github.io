@@ -30,7 +30,7 @@ I have some guesses as to why source{d}'s algorithm picked me as a potential can
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Pq-S557XQU" frameborder="0" allowfullscreen></iframe>
 
-In other words, it seems AI is about to cause some major disruption: creating new opportunities (e.g. head-hunter companies like *source{d}* but probably also carving tombstones for other fields of business or companies refusing to change. There's also semi-unexpected, arguably controversial and even humoristic uses for machine learning, for example [Tinderbox](https://github.com/crockpotveggies/tinderbox).
+In other words, it seems AI is about to cause some major disruption: creating new opportunities (e.g. head-hunter companies like *source{d}*) but probably also carving tombstones for other fields of business or companies refusing to change. There's also semi-unexpected, arguably controversial and even humoristic uses for machine learning, for example [Tinderbox](https://github.com/crockpotveggies/tinderbox).
 
 ## What would Google do?
 
