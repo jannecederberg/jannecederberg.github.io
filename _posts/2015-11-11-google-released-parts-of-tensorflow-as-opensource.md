@@ -44,7 +44,7 @@ Though the deep dreams images look cool, weird and artistic all at the same time
 
 Both image recognition and speech recognition are applications of neural networks. [Google Translate](https://translate.google.com) uses neural networks to first translate text into a mathematical multi-dimensional vector space and then project the vector data back into a textual representation in another language. AI (and neural networks as one way of implementing AI) are used all around us more and more...it's just not immediately apparent if you don't know what to "look for".
 
-The correctness of interpretations and decisions made by AI and artificial neural networks matters at least for business reasons. And also plays a part in why [self-driving cars must be programmed to kill](http://www.technologyreview.com/view/542626/why-self-driving-cars-must-be-programmed-to-kill/) if they are to ever be commercially successful outside long-haul trucks. Radical.
+The correctness of interpretations and decisions made by AI and artificial neural networks matters at least for business reasons. It has for further-reaching implications as well though, for example playing a part in why [self-driving cars must be programmed to kill](http://www.technologyreview.com/view/542626/why-self-driving-cars-must-be-programmed-to-kill/) if they are to ever be commercially successful (outside the domain of long-haul trucks). That's radical.
 
 ### Google released parts of TensorFlow as open-source
 
