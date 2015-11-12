@@ -65,7 +65,7 @@ Back in August I [tweeted](https://twitter.com/jannecederberg/status/63019186057
 
 The course is very well organized and I would definitely recommend it. It does require proficiency in linear algebra (matrix operations) and programming to complete though. It took me approx 6-8 hours of work per week to complete. I do hold a master's degree with theoretical math as major and computer science as minor though, so with some other background it might require more (or less) time.
 
-With regards to career choices though, I would guess there's going to be work for people skilled in the area of applying machine learning principals into existing as well as completely new domains.
+With regards to career choices though, I would guess there's going to be work for people skilled in the area of applying machine learning principles into existing as well as completely new domains.
 
 ## Comments / questions?
 
