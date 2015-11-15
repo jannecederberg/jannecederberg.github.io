@@ -48,6 +48,9 @@ In addition to working on technical, business development and content creation s
 	- Computer systems administrator
 		- Windows 2003 Server, Windows XP workstations
 		- Lots of network automation, mostly using JScript, VBScript, AutoIt and AutoHotkey
+	- Klassikka 75 year anniversary yearbook technical implementation
+		- Turning raw data from a database into a gorgeus hardcover 700 page yearbook
+		- Used JavaScript and LaTeX among other things
 - Coaching a teens' basketball team at [Kuopion Linkki](http://linkki.fi)
 
 ## 9/2008 - 7/2009
