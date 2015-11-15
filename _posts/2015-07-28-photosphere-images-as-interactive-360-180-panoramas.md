@@ -5,6 +5,13 @@ subtitle:   "It's like pouring a jar of awesome-sauce on panorama images!"
 date:       2015-07-28 14:30:00
 header-img: 2015-07-28.jpg
 header-img-mobile: 2015-07-28_640px.jpg
+categories:
+  - photography
+  - programming
+tags:
+  - panorama
+  - html
+  - javascript
 ---
 
 ## TL;DR

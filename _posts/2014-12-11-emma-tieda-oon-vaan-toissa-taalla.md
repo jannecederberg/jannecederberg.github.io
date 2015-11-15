@@ -4,6 +4,9 @@ title:      '"Emmä tiedä, oon vaan töissä täällä"'
 subtitle:   Ajatuksia Suomen tulevaisuudesta
 date:       2014-12-11 12:00:00
 header-img: "2014-12-11.jpg"
+category:   politiikka
+tags:
+  - video
 ---
 
 Viime viikkoina olen Facebookin kautta kiinnittänyt huomiota ja lukenut useamman artikkelin siitä kuinka rakkaan isänmaamme byrokraatit hankaloittavat yrittäjien toimintaa erinäisillä absureilla luvilla; mainittakoon vaikka vajaan viikon takainen parturikampaajien lupamenettely itsenäisyyspäivän aukioloon: [olisi pitänyt olla asiakasvarauksia, että voi hakea lupaa][1]; mutta miten otat varauksia jos et ole varma voitko palvella asiakkaita? (Edit: osoittautuu, että [ilmeisesti keskusteluyhteys päättäjien ja kampaamoalan edustajien välillä][2] on ainakin jossain vaiheessa ollut ontuva.)

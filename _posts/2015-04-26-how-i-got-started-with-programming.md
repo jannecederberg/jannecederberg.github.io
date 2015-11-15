@@ -4,6 +4,12 @@ title:      How I got started with programming
 subtitle:   and what I've learned since
 date:       2015-04-26 09:00:00
 header-img: "2015-04-26.jpg"
+category:   programming
+tags:
+  - html
+  - javascript
+  - python
+  - xkcd
 ---
 
 

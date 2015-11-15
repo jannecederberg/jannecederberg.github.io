@@ -6,6 +6,10 @@ date:       2015-11-11 10:30:00
 header-img: 2015-11-11.jpg
 header-img-mobile: 2015-11-11_mobile.jpg
 light-heading: true
+category: programming
+tags:
+  - machine learning
+  - video
 ---
 
 

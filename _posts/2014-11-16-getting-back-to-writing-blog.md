@@ -4,6 +4,7 @@ title:      Getting back to writing a blog
 subtitle:   and what happened with my previous one
 date:       2014-11-16 12:00:00
 header-img: "2014-11-16.jpg"
+category:   meta
 ---
 
 ## Background

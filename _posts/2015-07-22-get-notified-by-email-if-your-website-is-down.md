@@ -4,6 +4,10 @@ title:      Get notified by email if your website is down
 subtitle:   A simple home-grown solution implemented with RaspberryPi and Python
 date:       2015-07-22 08:00:00
 header-img: "2015-07-22.jpg"
+category:   programming
+tags:
+  - python
+  - raspberrypi
 ---
 
 ## Background

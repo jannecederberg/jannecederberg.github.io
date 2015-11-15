@@ -4,6 +4,11 @@ title:      Is your job over?
 subtitle:   Humans need not apply...
 date:       2015-07-01 12:00:00
 header-img: 
+category:   programming
+tags:
+  - machine learning
+  - python
+  - video
 ---
 
 

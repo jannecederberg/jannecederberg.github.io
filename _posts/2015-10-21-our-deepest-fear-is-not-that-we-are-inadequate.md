@@ -6,6 +6,11 @@ date:       2015-10-21 10:00:00
 header-img: 2015-10-21.jpg
 header-img-mobile: 2015-10-21_640px.jpg
 light-heading: true
+category:   lifeskills
+tags:
+  - encouragement
+  - quotes
+  - video
 ---
 
 Today I saw this inspiring video by Daily Mail shared on [Facebook](https://www.facebook.com/DailyMail/videos/1041382859254795/):

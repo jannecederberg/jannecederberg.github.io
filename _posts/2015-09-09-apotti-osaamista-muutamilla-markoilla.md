@@ -5,6 +5,12 @@ subtitle:   "koska Suomessahan hommat osataan"
 date:       2015-09-09 10:00:00
 header-img: "2015-09-09.jpg"
 light-heading: true
+categories:
+  - politiikka
+  - programming
+tags:
+  - markov chains
+  - python
 ---
 
 (This article is available only in Finnish, sorry)
