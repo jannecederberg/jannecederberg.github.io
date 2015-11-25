@@ -10,7 +10,7 @@ tags:
   - jekyll
 ---
 
-This post is primarily self-documentational. It's not an entertaining post but a tech-documentation.
+Disclaimer: This post is primarily self-documentational. It's probably not entertaining (at least for the majority of people :)
 
 ## Background
 
