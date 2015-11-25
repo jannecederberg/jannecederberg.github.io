@@ -20,4 +20,5 @@ markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:day/:title/
 paginate: 5
+gems: ["jekyll-paginate"]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
