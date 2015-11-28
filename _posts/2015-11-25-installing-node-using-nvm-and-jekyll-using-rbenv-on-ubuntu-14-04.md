@@ -116,6 +116,7 @@ Once you're this far you're now ready to install Ruby:
 
 {% highlight bash %}
 rbenv install -v 2.2.3
+rbenv global 2.2.3
 {% endhighlight %}
 
 Notice that the `-v` flag is actually not referring to version in this case (as you might think) but is a flag to turn the verbose installation mode on. More info about install flags: `rbenv help install`.
