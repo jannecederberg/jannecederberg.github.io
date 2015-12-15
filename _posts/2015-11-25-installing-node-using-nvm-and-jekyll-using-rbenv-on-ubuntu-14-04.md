@@ -112,7 +112,7 @@ source ~/.bashrc
 
 ### Finally installing Ruby
 
-Once you're this far you're now ready to install Ruby:
+Once you're this far you're now ready to install Ruby. To list the available version, run `rbenv install --list`. Once you've selected the version to use (like here I opted to use version `2.2.3`), you can run the installation:
 
 {% highlight bash %}
 rbenv install -v 2.2.3
