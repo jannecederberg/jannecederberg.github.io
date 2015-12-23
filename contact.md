@@ -13,7 +13,7 @@ header-img-mobile: bg-contact_640px.jpg
     </div>
     <div class="col-xs-12 col-sm-9">
         Janne Cederberg<br />
-        <a href="https://twitter.com/jannecederberg"><i class="fa fa-twitter"></i> jannecederberg</a><br />
+        <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> @{{ site.twitter_username }}</a><br />
         <a href="mailto:janne@opetus.tv"><i class="fa fa-envelope"></i> janne@opetus.tv</a><br />
         <a href="tel:+358503785215"><i class="fa fa-phone"></i> +358 50 378 5215</a>
     </div>
