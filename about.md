@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 description: An attempt to define myself in a few words.
 header-img: bg-about.jpg
 header-img-mobile: bg-about_640px.jpg

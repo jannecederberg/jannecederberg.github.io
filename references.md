@@ -1,6 +1,7 @@
 ---
 layout: page
 title: References
+permalink: /references/
 description: "Some glimpses of the stuff I've done so far."
 header-img: bg-references.jpg
 header-img-mobile: bg-references_640px.jpg

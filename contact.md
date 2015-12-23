@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Contact"
+title: Contact
+permalink: /contact/
 description: "Have questions? I have answers (maybe)."
 header-img: bg-contact.jpg
 header-img-mobile: bg-contact_640px.jpg
