@@ -5,6 +5,7 @@ subtitle:
 date:       2015-11-25 12:00:00
 header-img: 2015-11-25.jpg
 header-img-mobile: 2015-11-25_mobile.jpg
+light-heading: true
 category:   system configuration
 tags:
   - node
