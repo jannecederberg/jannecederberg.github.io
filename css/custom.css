@@ -39,3 +39,7 @@
 .post-tags {
   text-align: right;
 }
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.3);
+}
