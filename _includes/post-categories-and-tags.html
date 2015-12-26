@@ -1,4 +1,7 @@
 <div class="post-categories" style="font-size: small; color: gray;">
+  Posted by <i class="fa fa-user"></i> {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on <i class="fa fa-calendar"></i> {{ page.date | date: "%B %-d, %Y" }}
+
+  <br>
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
