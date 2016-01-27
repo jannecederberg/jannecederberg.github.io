@@ -47,3 +47,4 @@ Please notice that running the test takes a few minutes if results are not in th
 - [Basics of TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 - [Detecting Certificate Authority compromises and web browser collusion](https://blog.torproject.org/blog/detecting-certificate-authority-compromises-and-web-browser-collusion)
 - [The EFF SSL Observatory](https://www.eff.org/observatory)
+- [Letsencrypt.org](https://letsencrypt.org) - They offer FREE domain-validated certificates! Sponsored by Chrome, Firefox, Facebook, Cisco, EFF and others.
