@@ -24,7 +24,7 @@ The above is actually a mere fraction of the report provided by the service.
 
 The example report states: *This site works only in browsers with SNI support.* *SNI* stands for [*Server Name Indication*](https://en.wikipedia.org/wiki/Server_Name_Indication) and it's GREAT!
 
-Back in the day, before SNI, you could host a maximum of only one *SSL/TLS* certificate per IP address. Technically the certificate could've been issued covering multiple domains but nevertheless it was very limiting for running websites as `https://`. With the move towards the [*HTTP/2* protocol](https://en.wikipedia.org/wiki/HTTP/2) with certificates being 100% mandatory for pretty much all practical applications (though not by the spec), *SNI* is a BIG help.
+Back in the day, before SNI, you could host a maximum of only one *SSL/TLS* certificate per IP address. Technically the certificate could've been issued covering multiple domains but nevertheless it was very limiting for running websites as `https://`. With the new [*HTTP/2* protocol](https://en.wikipedia.org/wiki/HTTP/2) certificates will be mandatory for pretty much all practical applications (though not by the spec) and hence, especially for smaller sites and webhotel services *SNI* is going to be a BIG deal.
 
 You may also want to listen to Google's [Ilya Grigorik talk about the HTTP/2 protocol](https://changelog.com/161/) on the [Changelog](https://changelog.com/) podcast:
 
