@@ -1,6 +1,8 @@
 ---
 layout:     post
 title:      Finnish primary and lower secondary schools on a map
+description: "I wanted to see what the Finnish school network looks like on a maps. This is the result."
+keywords:   "finland,education,primary school,junior high school,lower secondary school,PISA,map,school network,nordic,nordics"
 date:       2016-01-28 19:00:00
 header-img: 2016-01-28.jpg
 header-img-mobile: 2016-01-28_mobile.jpg
