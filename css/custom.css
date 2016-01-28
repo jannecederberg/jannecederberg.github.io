@@ -40,6 +40,8 @@
   text-align: right;
 }
 
-.navbar {
-  background-color: rgba(0, 0, 0, 0.3);
+@media screen and (min-width: 768px) {
+  .navbar {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
 }
