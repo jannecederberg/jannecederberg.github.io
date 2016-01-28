@@ -12,7 +12,7 @@ category:   programming
 
 I utilized Google Maps, [Python](https://xkcd.com/353/) and standard webdesign frontend technologies to plot Finland's primary and lower secondary schools (grades 1-9) on a map:
 
-[![Kartta Suomen peruskouluista](/img/suomen-peruskoulut.jpg)](/img/suomen-peruskoulut.jpg)
+[![Finnish primary and lower secondary schools on a map](/img/finnish-primary-and-lower-secondary-schools.jpg)](/img/finnish-primary-and-lower-secondary-schools.jpg)
 
 What partially surprised me was how many schools there are in the archipelago region between Turku and the Åland Islans (bottom-left / south-western part of the map).
 
