@@ -18,4 +18,4 @@ What partially surprised me was how many schools there are in the archipelago re
 
 The map acts sort of as a population density indicator as well.
 
-What do you think? Please leave your <a href="#disqus_thread">comments/questions down below</a> :)
+What do you think? Please leave your comments/questions below :)
