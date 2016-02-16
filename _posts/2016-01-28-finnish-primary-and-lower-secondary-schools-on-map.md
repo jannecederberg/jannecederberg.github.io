@@ -13,9 +13,9 @@ colorbox:   true
 
 I utilized Google Maps, [Python](https://xkcd.com/353/) and standard webdesign frontend technologies to plot Finnish primary and lower secondary schools (grades 1-9) on a map:
 
-(Edit 2.2.2016: thanks to reader feedback! I didn't notice the source data contained only postal addresses for 116 schools. As I marked the schools on the map based on street addresses only, there are currently 116 schools missing from the map. Intending to fix this within the next few weeks.)
+*Edit 16.2.2016:* The 82 blue dots represent schools that only had postal addresses available in the source data and were initially missing; it seems 34 schools are still missing from the data for a reason I didn't investigate.
 
-<a href="/img/finnish-primary-and-lower-secondary-schools.jpg" class="colorbox" title="Finnish primary and lower secondary schools on a map"><img src="/img/finnish-primary-and-lower-secondary-schools.jpg" alt="Finnish primary and lower secondary schools on a map"></a>
+<a href="/img/finnish-primary-and-lower-secondary-schools_large.jpg" title="Finnish primary and lower secondary schools on a map"><img src="/img/finnish-primary-and-lower-secondary-schools.jpg" alt="Finnish primary and lower secondary schools on a map"></a>
 
 What partially surprised me was how many schools there are in the archipelago region between Turku and the Åland Islans (bottom-left / south-western part of the map).
 
