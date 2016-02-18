@@ -18,6 +18,12 @@ colorbox:   false
 
 *(This article is only essential for Finnish schools and is hence only available in Finnish.)*
 
+## Disclaimer
+
+Tässä artikkelissa esitetty huijausmahdollisuus ei johdu suoranaisesti YTL:stä vaan siitä yksinkertaisesta seikasta että vastauskäyttöliittymän alustana käytetään tavallista Internet-selainta. Toisena taustatekijänä on, että Abitti-järjestelmän kurssikoekäytön näkökulmasta autentikointiprosessi on haluttu tietoisesti pitää kevyenä, jotta järjestelmän käyttö olisi opettajille mahdollisimman suoraviivaista. 
+
+Tässä artikkelissa esitetty huijausmahdollisuus **ei myöskään koske varsinaista ylioppilaskoetta**, koska siinä autentikointiprosessi on huomattavasti tarkempi ja jokainen käyttäjä autentikoidaan valvojan toimesta ja henkilöllisyystodistusta ja varmistuskoodeja käyttäen.
+
 ## Taustaa
 
 [YTL](http://ylioppilastutkinto.fi):n [Abitti](https://www.abitti.fi)-järjestelmän käyttäminen koulun arjessa ja kurssikokeissa on suotavaa/tärkeää, jotta opiskelijat tottuvat järjestelmän käyttöön ja saavat näin harjoitusta ennen ensimmäisiä sähköisiä ylioppilaskokeita syksyllä 2016.
@@ -34,6 +40,7 @@ HUOM! Alla olevalla videolla kuvattu huijausmahdollisuus jountaa juurensa Intern
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iGbf1TdIa8w" frameborder="0" allowfullscreen></iframe>
 *(Videon äänenlaatu ei ole paras mahdollinen, koska minulla ei ollut kondensaattorimikrofonia mukana nauhoitushetkellä.)*
+
 
 ## Kuinka ongelmalta voi suojautua?
 
