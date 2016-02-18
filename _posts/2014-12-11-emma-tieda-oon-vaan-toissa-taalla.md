@@ -5,6 +5,7 @@ subtitle:   Ajatuksia Suomen tulevaisuudesta
 date:       2014-12-11 12:00:00
 header-img: "2014-12-11.jpg"
 category:   politiikka
+langcode:   fi
 tags:
   - video
 ---

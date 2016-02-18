@@ -3,6 +3,7 @@ layout:     post
 title:      YTL:n kanslian ja Digabin roolit (rap)
 date:       2014-12-01 12:00:00
 header-img: "2014-12-01.jpg"
+langcode:   fi
 ---
 
 Olin mukana Ylioppilastutkintolautakunnan järjestämässä [Digabi-kouluttajakoulutuksessa][kouluttajat] 10.-11.11.2014. Yhdessä vaiheessa koulutusta agendana oli kuvata Ylioppilastutkintolautakunnan kanslian ja Digabi-henkilöstön välistä roolitusta 30 sekunnin hissipuheen muodossa. Päädyin värkkäämään (ja esittämään) tällaisen runon/rap-sanoituksen aiheesta.

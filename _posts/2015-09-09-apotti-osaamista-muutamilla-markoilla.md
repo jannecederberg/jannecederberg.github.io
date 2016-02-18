@@ -5,6 +5,7 @@ subtitle:   "koska Suomessahan hommat osataan"
 date:       2015-09-09 10:00:00
 header-img: "2015-09-09.jpg"
 light-heading: true
+langcode:    fi
 categories:
   - politiikka
   - programming

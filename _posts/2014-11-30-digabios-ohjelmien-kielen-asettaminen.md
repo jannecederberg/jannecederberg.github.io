@@ -4,6 +4,7 @@ title:      DigabiOS-ohjelmien kielen asettaminen
 subtitle:   eli mitä tehdä jos oikoluku on englanniksi?
 date:       2014-11-30 12:00:00
 header-img: "2014-11-30.png"
+langcode:   fi
 ---
 
 ## Taustaa
