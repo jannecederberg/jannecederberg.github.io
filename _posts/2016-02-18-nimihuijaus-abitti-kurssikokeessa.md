@@ -18,11 +18,17 @@ colorbox:   false
 
 *(This article is only essential for Finnish schools and is hence only available in Finnish.)*
 
+## Taustaa
+
 [YTL](http://ylioppilastutkinto.fi):n [Abitti](https://www.abitti.fi)-järjestelmän käyttäminen koulun arjessa ja kurssikokeissa on suotavaa/tärkeää, jotta opiskelijat tottuvat järjestelmän käyttöön ja saavat näin harjoitusta ennen ensimmäisiä sähköisiä ylioppilaskokeita syksyllä 2016.
 
 Ylioppilaskoetilanteessa koejärjestelmään kirjautuminen on tarkasti valvottua ja valvojat varmistavat henkilöllisyystodistuksen ja varmistustunnusten avulla, että kukin opiskelija kirjautuu järjestelmään omalla nimellään. Kuitenkin arkikäytössä koeviikoilla tms. valvontakäytänne on helposti löysempää jo pelkästään ajansäästämissyistä.
 
 Mikäli Abitti-järjestelmää käytetään kurssikokeessa tai muun arvioitavan kurssisuorituksen toteutusalustana ja koetilanteen valvoja ei ole tarkkana, on opiskelijoilla mahdollisuus vastata kokeeseen esim. toistensa nimillä.
+
+YTL:n puolelta Abitti-järjestelmän kurssikoekäyttö on haluttu tehdä kynnykseltään mahdollisimman matalaksi ja siitä syystä käyttöön liittyvä autentikointiprosessi kurssikoekäytössä on minimaalinen. Tästä kuitenkin seuraa tämän artikkelin käsittelemä nyanssi, joka on hyvä huomioida Abitti-kurssikokeita pidettäessä.
+
+## Huijausmahdollisuus
 
 HUOM! Alla olevalla videolla kuvattu huijausmahdollisuus jountaa juurensa Internet-selainten normaaleihin ominaisuuksiin. Koska Abitti-järjestelmässä koevastaaminen tehdään selainkäyttöliittymän kautta, ovat selaimen mahdollistamat ominaisuudet (kuten `F12`-napin painamisella aukeava kehittäjätila) käytettävissä:
 
