@@ -8,7 +8,7 @@ header-img: 2016-01-28.jpg
 header-img-mobile: 2016-01-28_mobile.jpg
 light-heading: true
 category:   programming
-colorbox:   true
+colorbox:   false
 ---
 
 I utilized Google Maps, [Python](https://xkcd.com/353/) and standard webdesign frontend technologies to plot Finnish primary and lower secondary schools (grades 1-9) on a map:
