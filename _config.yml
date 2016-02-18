@@ -8,6 +8,7 @@ email: janne.cederberg@gmail.com
 description: "The founder of Opetus.tv, a site like Khan Academy but with Finnish content based on Finnish curriculum, thousands of videos and no outside funding."
 baseurl: ""
 url: "http://jannecederberg.fi"
+default-langcode: en
 
 twitter_username: jrcberg
 linkedin_url: https://www.linkedin.com/in/jannecederberg

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% if page.langcode %}{{ page.langcode }}{% else %}{{ site.default-langcode }}{% endif %}">
 
 {% include head.html %}
 
