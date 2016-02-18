@@ -4,7 +4,7 @@ title:      Nimihuijaus Abitti-kurssikokeessa
 subtitle:   Eli kuinka opiskelijat voivat vastata kokeeseen toistensa nimillä
 description: Ylioppilastutkintolautakunnan Abitti-järjestelmää kurssikokeissa käytettäessä opiskelijat voivat melko pienellä vaivalla uskottavasti vastata kokeeseen toistensa nimillä ellei kokeen valvoja ole tarkkana.
 keywords:   "ylioppilastutkinto,ytl,abitti,digabi,lukio,koe,kurssikoe,koeviikko,yo-koe,ylioppilaskoe,huijaus,lunttaus,koeviikko,yläkoulu,yläaste"
-date:       2016-02-18 12:45:00
+date:       2016-02-18 13:00:00 +0200
 header-img: 2016-02-18.png
 header-img-mobile: 2016-02-18_mobile.png
 light-heading: true
