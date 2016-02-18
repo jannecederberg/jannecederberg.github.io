@@ -22,7 +22,9 @@ colorbox:   false
 
 Ylioppilaskoetilanteessa koejärjestelmään kirjautuminen on tarkasti valvottua ja valvojat varmistavat henkilöllisyystodistuksen ja varmistustunnusten avulla, että kukin opiskelija kirjautuu järjestelmään omalla nimellään. Kuitenkin arkikäytössä koeviikoilla tms. valvontakäytänne on helposti löysempää jo pelkästään ajansäästämissyistä.
 
-Mikäli Abitti-järjestelmää käytetään kurssikokeessa tai muun arvioitavan kurssisuorituksen toteutusalustana ja koetilanteen valvoja ei ole tarkkana, on opiskelijoilla mahdollisuus vastata kokeeseen esim. toistensa nimillä:
+Mikäli Abitti-järjestelmää käytetään kurssikokeessa tai muun arvioitavan kurssisuorituksen toteutusalustana ja koetilanteen valvoja ei ole tarkkana, on opiskelijoilla mahdollisuus vastata kokeeseen esim. toistensa nimillä.
+
+HUOM! Alla olevalla videolla kuvattu huijausmahdollisuus jountaa juurensa Internet-selainten normaaleihin ominaisuuksiin. Koska Abitti-järjestelmässä koevastaaminen tehdään selainkäyttöliittymän kautta, ovat selaimen mahdollistamat ominaisuudet (kuten `F12`-napin painamisella aukeava kehittäjätila) käytettävissä:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iGbf1TdIa8w" frameborder="0" allowfullscreen></iframe>
 *(Videon äänenlaatu ei ole paras mahdollinen, koska minulla ei ollut kondensaattorimikrofonia mukana nauhoitushetkellä.)*
