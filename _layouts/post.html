@@ -35,15 +35,15 @@ layout: default
 
                 <hr>
 
-                <ul class="pager">
+                <ul class="pager" lang="{{ site.default-langcode }}">
                     {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
                     </li>
                     {% endif %}
-                    <li>
-                        {% include facebook-button-count.html %}
-                    </li>
+                    
+                    <li>{% include mailchimp-subscribe.html %}</li>
+                    <li>{% include facebook-button-count.html %}</li>
                     
                     {% if page.next.url %}
                     <li class="next">
