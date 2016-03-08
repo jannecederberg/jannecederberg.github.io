@@ -10,8 +10,8 @@ light-heading: true
 category:   business
 langcode:   en
 tags:
-  - abitti
-  - digabi
+  - communication
+  - culture
 colorbox:   true
 ---
 
