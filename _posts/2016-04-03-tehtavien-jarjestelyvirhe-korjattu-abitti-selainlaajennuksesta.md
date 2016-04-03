@@ -5,7 +5,6 @@ subtitle:   Virhe aiheutti ongelmia koetta pisteytettäessä mikäli koelaadinna
 description: Note to self of Business Insider's article on habits and/or attitudes that might be holding you and/or me back. 
 keywords:   "business,negotiation,culture,culture differences,customs,habit,habit,attitude"
 date:       2016-04-03 14:26:00 +0300
-header-img: 2016-04-03.png
 header-background: "#006ED2"
 light-heading: true
 category:   abitti
