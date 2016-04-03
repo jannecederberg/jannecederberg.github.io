@@ -6,6 +6,7 @@ description: Abitti-koetehtävänlaadintaan liittyvä Chrome-selaimeen laajennuk
 keywords:   "abitti,digabi,lukio,ylioppilastutkinto,koe,koeviikko"
 date:       2016-04-03 14:26:00 +0300
 header-background: "#006ED2"
+header-img: 2016-04-03.png
 light-heading: true
 category:   abitti
 langcode:   fi
