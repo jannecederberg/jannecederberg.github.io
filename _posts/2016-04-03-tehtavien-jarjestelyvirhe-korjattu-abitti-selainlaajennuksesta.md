@@ -2,8 +2,8 @@
 layout:     post
 title:      Tehtävien järjestelyvirhe korjattu Abitti-selainlaajennuksesta
 subtitle:   Virhe aiheutti ongelmia koetta pisteytettäessä mikäli koelaadinnassa oli järjestetty tehtäviä uudestaan
-description: Note to self of Business Insider's article on habits and/or attitudes that might be holding you and/or me back. 
-keywords:   "business,negotiation,culture,culture differences,customs,habit,habit,attitude"
+description: Abitti-koetehtävänlaadintaan liittyvä Chrome-selaimeen laajennuksen koetehtävien uudelleenjärjestelyn virhetilanne on nyt korjattu. 
+keywords:   "abitti,digabi,lukio,ylioppilastutkinto,koe,koeviikko"
 date:       2016-04-03 14:26:00 +0300
 header-background: "#006ED2"
 light-heading: true
