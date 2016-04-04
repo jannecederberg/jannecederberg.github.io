@@ -54,7 +54,7 @@ Koska Ylioppilastutkintolautakunta kehittää Abitti-järjestelmää ensisijaise
 
 ## Ohjelmointivirhe
 
-Edellä kohdassa 3.c mainittu tehtävien uudelleenjärjestäminen ja siinä laajennuksen versioon v0.0.9 asti ilmennyt ohjelmointivirhe ovat tämän artikkelin varsinainen sisältö.
+[Tweak-A-bitti -selainlisäosassa](https://bit.ly/abitti-chrome) on edellä kohdassa 3.c mainittu tehtävien uudelleenjärjestäminen ja siinä laajennuksen versioon v0.0.9 asti ilmennyt ohjelmointivirhe ovat tämän artikkelin varsinainen sisältö.
 
 Kiitos kuuluu YTL:n porukalle asian tutkimisesta ja raportoimisesta. Pahoittelut myös heidän suuntaansa siitä, että heillä kului työaikaa tähän. Toivoisin jatkossa, että mikäli käytät laatimiani Abitti-apuvälineitä ja huomaat jotain epäjohdonmukaisuuksia niin ilmoita asiasta myös minulle, kiitos :)
 
@@ -101,7 +101,7 @@ Ohjelmoinnin opiskelusta kiinnostuneille vinkkinä, että ongelman ratkaisussa t
 
 ## Loppukaneetti
 
-Eli nyt [laajennus](http://bit.ly/abitti-chrome) on tosiaan päivitetty ja myös tehtävien uudelleenjärjestäminen toimii (lopultakin) oikein. Kiitos ymmärryksestä ja anteeksi virheestä aiheutuneesta vaivasta ja frustraatiosta.
+Eli nyt [laajennus](https://bit.ly/abitti-chrome) on tosiaan päivitetty ja myös tehtävien uudelleenjärjestäminen toimii (lopultakin) oikein. Kiitos ymmärryksestä ja anteeksi virheestä aiheutuneesta vaivasta ja frustraatiosta.
 
 Yt, Janne Cederberg
 
