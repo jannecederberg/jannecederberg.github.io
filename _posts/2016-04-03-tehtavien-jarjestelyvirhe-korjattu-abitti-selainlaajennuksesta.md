@@ -79,7 +79,7 @@ Kiitos kuuluu YTL:n porukalle asian tutkimisesta ja raportoimisesta. Pahoittelut
 
 ### Kenen vastuu?
 
-Vastuu on minun; tarkoitus on tietysti että selainlaajennus toimii kuten kuuluu, mutta koska kyseessä on epävirallinen lisäominaisuus niin *Tweak-A-bitti* -laajennuksen asennussivulla käyttöehdoissa on todettu versiosta 0.0.1 lähtien mm. näin: *"Yhteensopivuutta YTL:n Abitti-järjestelmän kanssa ei voida taata."*
+Vastuu on minun; tarkoitus on tietysti että selainlaajennus toimii kuten kuuluu, mutta koska kyseessä on epävirallinen lisäominaisuus niin [*Tweak-A-bitti*](https://bit.ly/abitti-chrome):n asennussivulla käyttöehdoissa on todettu versiosta 0.0.1 lähtien mm. näin: *"Yhteensopivuutta YTL:n Abitti-järjestelmän kanssa ei voida taata."*
 
 Kuitenkin, mikäli opiskelijoidesi vastaukset jäivät tästä johtuen pisteyttämättä, mikäli YTL purkaa puolestani `answers_kokeennimi.meb` -vastaustiedoston salauksen (itse en teknisesti *voi* sitä tehdä), mikäli olette halukkaita lähettämään salaamattoman vastaustiedoston minulle (ja mikäli tästä kaikesta ei aiheudu juridista ongelmaa henkilötietolain tms. näkökulmasta) niin voin kaivaa opiskelijoidenne vastaukset tiedostosta esille ja lähettää ne takaisin. Pisteytys menisi tällöin "käsipelillä" eikä oma.abitti.fi:n kautta.
 
