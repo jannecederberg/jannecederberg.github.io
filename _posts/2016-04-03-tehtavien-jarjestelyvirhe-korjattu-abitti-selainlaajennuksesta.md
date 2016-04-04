@@ -54,7 +54,7 @@ Koska Ylioppilastutkintolautakunta kehittää Abitti-järjestelmää ensisijaise
 
 ## Ohjelmointivirhe
 
-[Tweak-A-bitti -selainlisäosassa](https://bit.ly/abitti-chrome) on edellä kohdassa 3.c mainittu tehtävien uudelleenjärjestäminen ja siinä laajennuksen versioon v0.0.9 asti ilmennyt ohjelmointivirhe ovat tämän artikkelin varsinainen sisältö.
+Chrome-selaimelle Abitti-kurssikoelaadintaa sujuvoittamaan tarkoitettu [Tweak-A-bitti -selainlisäosa](https://bit.ly/abitti-chrome)ni sisälsi versioon 0.0.9 asti tehtävien uudellenjärjestämiseen liittyvän ohjelmointivirheen. Virheen seurauksena tietyissä tilanteissa kävi niin, että pidettyä koetta ei voinut pisteyttää. Virhe on nyt korjattu (v0.0.10 ja uudemmat).
 
 Kiitos kuuluu YTL:n porukalle asian tutkimisesta ja raportoimisesta. Pahoittelut myös heidän suuntaansa siitä, että heillä kului työaikaa tähän. Toivoisin jatkossa, että mikäli käytät laatimiani Abitti-apuvälineitä ja huomaat jotain epäjohdonmukaisuuksia niin ilmoita asiasta myös minulle, kiitos :)
 
