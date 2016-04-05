@@ -8,7 +8,22 @@ header-img-mobile: bg-references_640px.jpg
 light-heading: true
 ---
 
+You can take a look at my [LinkedIn page](https://fi.linkedin.com/in/jannecederberg)
+<a href="https://fi.linkedin.com/in/jannecederberg">
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x" style="color: #007bb6;"></i>
+  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+</span>
+</a>
+
 In addition to working on technical, business development and content creation stuff for Opetus.tv, here a things/projects/organizations I’ve been working with in the recent years:
+
+## 2016
+
+- [Federation of Finnish Enterprises](http://www.yrittajat.fi) and [Helsinki Enterprise Agency](http://www.newcohelsinki.fi/en)
+	- Joint educational video project of the Federation of Finnish Enterprises (Suomen Yrittäjät) and Helsinki Enterprise Agency relating to helping aspiring entrepreneurs get up to speed and get to grips with all they need to know when starting a business.
+	- My role was technical consultation, video recording and editing
+	- The videos (which are in Finnish) can be seen on the [Federation of Finnish Enterprises YouTube channel](https://www.youtube.com/watch?v=YPbBhTx9NnU&list=PLTucN4zpbWZnb_99gGN7NQdheTjl9fPqJ)
 
 ## 2015
 
