@@ -11,6 +11,11 @@
   transition: background-image 2s ease-in-out;
 }
 
+/**
+ * Multi-level ordered lists
+ */
+ol ol { list-style-type: lower-alpha; }
+ol ol ol { list-style-type: lower-roman; }
 
 /**
  * For tag cloud and archives
