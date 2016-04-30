@@ -14,7 +14,7 @@ colorbox:   false
 
 I learned a lesson on clear communication today :)
 
-Today in the morning I was going to print some mailing labels for my [Nettiniilo](https://nettiniilo.fi) products for shipping them to clients. Went I went to log into the Finnish postal service's webservice to create the mailing labels I was faced with first this:
+In the morning I was going to print some mailing labels for my [Nettiniilo](https://nettiniilo.fi) products for shipping them to clients. When I went to log into the Finnish postal service's webservice to create the mailing labels I was faced with first this:
 
 ![Connection to label creation service simply died](/img/posti-prinetti-certificate-dead.png)
 
