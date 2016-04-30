@@ -8,6 +8,9 @@ date:       2016-04-30 13:20:00 +0300
 header-background: "#ff9326"
 light-heading: true
 category:   infosec
+tags:
+  - communication
+  - twitter
 langcode:   en
 colorbox:   false
 ---
