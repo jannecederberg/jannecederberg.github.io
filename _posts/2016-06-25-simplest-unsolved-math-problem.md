@@ -12,7 +12,7 @@ langcode:   en
 colorbox:   false
 ---
 
-<script type="text/javascript" async
+<script type="text/javascript" async="async"
   src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
@@ -112,7 +112,7 @@ Today to amuse myself and my daugher-in-law, I created the following illustratio
 <div class="container">
   <div class="row">
     <h2>Try it yourself</h2>
-    <p>Alter the <em>sequence start</em> value either by <kdb>up/down</kbd> arrow keys or inputting a value and pressing enter.</p>
+    <p>Alter the <em>sequence start</em> value either by <kbd>up/down</kbd> arrow keys or inputting a value and pressing enter.</p>
     <p>
       <strong>Sequence start:</strong> <input type="number" id="aloitusarvo" value="100" placeholder="Starting value" onchange="drawChart();"><br />
       <strong>Members:</strong> <span id="members"></span><br />
@@ -129,15 +129,14 @@ Today to amuse myself and my daugher-in-law, I created the following illustratio
   </div>
 </div>
 
-<h2>Conclusion</h2>
+## Conclusion
 
-<p>
-  My daugher-in-law was excited about exploring this. She was fashinated/apparently surprised by the fact that mathematicians haven't been able to figure out why this works, e.g. that what ever positive whole number that you choose as the starting point, you'll eventually reach 1 no matter what.
-</p>
-<p>
-  For her this was a though-experiment and some motivation regarding multiplication/division. For me it was a small quick-and-dirty data-illustration exercise :)
-</p>
+My daugher-in-law was excited about exploring this. She was fashinated/apparently surprised by the fact that mathematicians haven't been able to figure out why this works, e.g. that what ever positive whole number that you choose as the starting point, you'll eventually reach 1 no matter what.
 
-<h2>Humor segment</h2>
-<p><a href="https://xkcd.com/710/">XKCD</a> has also covered the Collatz conjecture:</p>
-<p><img src="http://imgs.xkcd.com/comics/collatz_conjecture.png" alt="XKCD: Collatz Conjecture" title="The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules." /></p>
+For her this was a though-experiment and some motivation regarding multiplication/division. For me it was a small quick-and-dirty data-illustration exercise :)
+
+## Humor segment
+
+[XKCD](https://xkcd.com/710/) has also covered the Collatz conjecture:
+
+<img src="http://imgs.xkcd.com/comics/collatz_conjecture.png" alt="XKCD: Collatz Conjecture" title="The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules." />
