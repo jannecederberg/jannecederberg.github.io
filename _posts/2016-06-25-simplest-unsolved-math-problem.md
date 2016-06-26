@@ -76,7 +76,7 @@ Today to amuse myself and my niece, I created the following illustration:
     var options = {
       chart: {
         title: '3n+1 problem (aka the Collatz conjecture)',
-        subtitle: 'Graph displays sequence terms (x-axis) with their values (y-axis) from sequence start until reaching 1.'
+        subtitle: 'Graph displays Collatz conjecture sequence terms from sequence start until reaching 1.'
       },
       height: 500
     };
