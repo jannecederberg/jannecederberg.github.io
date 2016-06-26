@@ -32,8 +32,8 @@ Mathematically the same sequence is produced by this recursive definition:
 
 $$a_n = \begin{cases}
   \text{Select any } n\in\mathbb{N} & \text{when } n=1 \\
-  \frac{a_{n-1}}{2} & \text{if } n \geq 2 \text{ and } a_{n-1} \text{ is even} \\
-  3a_{n-1}+1  & \text{if } n \geq 3 \text{ and } a_{n-1} \text{ is odd}
+  \frac{a_{n-1}}{2} & \text{if } n > 1 \text{ and } a_{n-1} \text{ is even} \\
+  3a_{n-1}+1  & \text{if } n > 1 \text{ and } a_{n-1} \text{ is odd}
 \end{cases}$$
 
 The claim is that the series formed by the aforementioned recursive definition will eventually always reach 1. This is also known as the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
