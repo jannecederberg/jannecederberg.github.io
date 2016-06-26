@@ -18,11 +18,11 @@ colorbox:   false
 
 ## Background
 
-Yesterday with my niece while watching some random YouTube videos we came across an interesting video about what the video claims to be the simplest unsolved (they use the word <em>impossible</em>) math problem:
+Yesterday with my niece we came across an interesting YouTube video about what the video claims to be the simplest unsolved (they use the word <em>impossible</em>) math problem:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4CjXk_b8zo" frameborder="0" allowfullscreen></iframe>
 
-The problem presented is quite simple and is defined in layman terms as follows:
+In layman terms the problem is defined as follows:
 
 1. Pick any positive whole number.
 2. If the number is even, divide it by 2. If it was odd however, multiply it by 3 and add 1.
