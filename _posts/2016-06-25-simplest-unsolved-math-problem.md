@@ -40,7 +40,7 @@ The claim is that the series formed by the aforementioned recursive definition w
 
 ## Exploring the problem
 
-The problem is quite readily understandable for a primary school student, my niece being in 8 years old at the moment and she seemed to be fashinated by it. We worked though the sequence starting from 10 and from 100 and reached 1 with both starting points.
+The problem is quite readily understandable for a primary school student; my niece is 8 years old at the moment and she seemed fashinated by it. We worked though the sequence starting from 10 and from 100 and reached 1 with both starting points.
 
 Today to amuse myself and my niece, I created the following illustration:
 
@@ -138,7 +138,7 @@ Today to amuse myself and my niece, I created the following illustration:
 
 ## Conclusion
 
-My niece was excited about exploring this. She was fashinated and surprised by the fact that mathematicians haven't been able to figure out why this works, e.g. that whatever positive whole number that you choose as your starting point, you'll eventually reach 1 no matter what.
+My niece seemed to enjoy exploring this. She was surprised by the fact that mathematicians haven't been able to figure out why this works, e.g. that whatever positive whole number that you choose as your starting point, you'll eventually reach 1 no matter what.
 
 For her this was a though-experiment and some motivation regarding multiplication/division. For me it was a small quick-and-dirty data-illustration exercise :)
 
@@ -146,7 +146,7 @@ For her this was a though-experiment and some motivation regarding multiplicatio
 
 [xkcd](https://xkcd.com/710/) has also covered the Collatz conjecture with an ironic twist:
 
-<img src="http://imgs.xkcd.com/comics/collatz_conjecture.png" alt="XKCD: Collatz Conjecture" title="The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules." />
+<img src="http://imgs.xkcd.com/comics/collatz_conjecture.png" alt="xkcd: Collatz Conjecture" title="The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules." />
 
 ## More on the Collatz conjecture
 
