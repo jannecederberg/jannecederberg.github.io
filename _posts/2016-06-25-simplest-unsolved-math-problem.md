@@ -2,7 +2,7 @@
 layout:     post
 title:      The simplest unsolved math problem
 subtitle:   Exploring math with my 8 year old niece
-description:
+description: "The Collatz conjecture provides for a fashinating and surprising mathematical exercise for primary school students and nevertheless is yet unsolved by professional mathematicians. Article contains an interactive illustration."
 keywords:   "collatz conjecture,math,teaching,illustration,xkcd"
 date:       2016-06-25 22:00:00 +0300
 header-img: 2016-06-25.jpg
@@ -31,7 +31,7 @@ In layman terms the problem is defined as follows:
 Mathematically the same sequence is produced by this recursive definition:
 
 $$a_n = \begin{cases}
-  \text{Select any } n\in\mathbb{N} & \text{when } n=1 \\
+  \text{Select any } a_1\in\mathbb{N} & \text{when } n=1 \\
   \frac{a_{n-1}}{2} & \text{if } n > 1 \text{ and } a_{n-1} \text{ is even} \\
   3a_{n-1}+1  & \text{if } n > 1 \text{ and } a_{n-1} \text{ is odd}
 \end{cases}$$
@@ -144,7 +144,7 @@ For her this was a though-experiment and some motivation regarding multiplicatio
 
 ## Humor segment
 
-[XKCD](https://xkcd.com/710/) has also covered the Collatz conjecture with an ironic twist:
+[xkcd](https://xkcd.com/710/) has also covered the Collatz conjecture with an ironic twist:
 
 <img src="http://imgs.xkcd.com/comics/collatz_conjecture.png" alt="XKCD: Collatz Conjecture" title="The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules." />
 
