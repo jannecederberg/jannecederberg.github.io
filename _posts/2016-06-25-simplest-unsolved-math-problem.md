@@ -5,7 +5,7 @@ subtitle:   Exploring math with my 8 year old niece
 description:
 keywords:   "collatz conjecture,math,teaching,illustration,xkcd"
 date:       2016-06-25 22:00:00 +0300
-header-img: 2016-06-25.png
+header-img: 2016-06-25.jpg
 light-heading: true
 category:   mathematics
 langcode:   en
