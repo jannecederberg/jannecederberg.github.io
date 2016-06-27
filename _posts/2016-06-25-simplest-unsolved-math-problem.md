@@ -69,7 +69,7 @@ Today to amuse myself and my niece, I created the following illustration:
     var start = document.getElementById('aloitusarvo') ? parseInt(document.getElementById('aloitusarvo').value) : 100;
     var data = new google.visualization.DataTable();
     data.addColumn('number', 'Sequence term index');
-    data.addColumn('number', 'Term values');
+    data.addColumn('number', 'Values');
 
     data.addRows( generateList(start) );
 
@@ -78,7 +78,7 @@ Today to amuse myself and my niece, I created the following illustration:
         title: '3n+1 problem (aka the Collatz conjecture)',
         subtitle: 'Graph displays Collatz conjecture sequence terms from sequence start until reaching 1.'
       },
-      height: 500
+      height: 400
     };
 
     var chart = new google.charts.Line(document.getElementById('linechart'));
@@ -91,7 +91,7 @@ Today to amuse myself and my niece, I created the following illustration:
   function updateTableNumbers(list) {
     var data = new google.visualization.DataTable();
     data.addColumn('number', 'Index (n)');
-    data.addColumn('number', 'Value');
+    data.addColumn('number', 'Values');
     data.addRows(list);
 
     var table = new google.visualization.Table(document.getElementById('numberlist'));
@@ -118,19 +118,23 @@ Today to amuse myself and my niece, I created the following illustration:
 
 <div class="container">
   <div class="row">
-    <h2>Try it yourself</h2>
-    <p>Alter the <em>sequence start</em> value either by <kbd>up/down</kbd> arrow keys on the keyboard or inputting a value and pressing enter.</p>
-    <p>
-      <strong>Sequence start:</strong> <input type="number" id="aloitusarvo" value="30" placeholder="Starting value" onchange="drawChart();"><br />
-      <strong>Term count:</strong> <span id="terms"></span><br />
-      <strong>Largest term:</strong> <span id="largest_member"></span>
-    </p>
+    <div class="col-xs-12">
+      <h2>Try it yourself</h2>
+      <p>Alter the <em>sequence start</em> value either by <kbd>up/down</kbd> arrow keys on the keyboard or inputting a value and pressing enter.</p>
+      <p>
+        <strong>Sequence start:</strong> <input type="number" id="aloitusarvo" value="30" placeholder="Starting value" onchange="drawChart();"><br />
+        <strong>Term count:</strong> <span id="terms"></span><br />
+        <strong>Largest term:</strong> <span id="largest_member"></span>
+      </p>
+    </div>
   </div>
   <div class="row">
-    <div class="col-xs-9">
+    <div class="col-xs-12 col-md-9">
+      <h3>Graph</h3>
       <div id="linechart"></div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-12 col-md-3">
+      <h3>Tabulated</h3>
       <div id="numberlist"></div>
     </div>
   </div>
