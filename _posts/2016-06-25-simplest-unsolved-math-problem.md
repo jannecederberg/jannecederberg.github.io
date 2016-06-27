@@ -31,7 +31,7 @@ In layman terms the problem is defined as follows:
 Mathematically the same sequence is produced by this recursive definition:
 
 $$a_n = \begin{cases}
-  \text{Select any } a_1\in\mathbb{N} & \text{when } n=1 \\
+  \text{Select any } & a_1\in\mathbb{N} \\
   \frac{a_{n-1}}{2} & \text{if } n > 1 \text{ and } a_{n-1} \text{ is even} \\
   3a_{n-1}+1  & \text{if } n > 1 \text{ and } a_{n-1} \text{ is odd}
 \end{cases}$$
