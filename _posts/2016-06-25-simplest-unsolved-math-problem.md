@@ -135,12 +135,10 @@ Today to amuse myself and my niece, I created the following illustration:
   <div class="row">
     <div class="col-xs-12 col-md-9">
       <h3>Graph</h3>
-      <p>The graph shows Collatz sequence values starting from <em>sequence start</em> (above) until reaching 1:</p>
       <div id="linechart"></div>
     </div>
     <div class="col-xs-12 col-md-3">
       <h3>Tabulated</h3>
-      <p>The same values presented in a data table:</p>
       <div id="numberlist"></div>
     </div>
   </div>
