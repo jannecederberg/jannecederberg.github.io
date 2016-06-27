@@ -62,26 +62,28 @@ Today to amuse myself and my niece, I created the following illustration:
     return sequence;
   }
 
-  google.charts.load('current', {'packages':['line', 'table', 'controls']});
+  // using classic linecharts: https://developers.google.com/chart/interactive/docs/gallery/linechart
+  google.charts.load('current', {'packages':['controls', 'corechart', 'table']});
   google.charts.setOnLoadCallback(drawChart);
 
   function drawChart() {
-    var start = document.getElementById('aloitusarvo') ? parseInt(document.getElementById('aloitusarvo').value) : 100;
+    var start = document.getElementById('startValue') ? parseInt(document.getElementById('startValue').value) : 100;
     var data = new google.visualization.DataTable();
     data.addColumn('number', 'Sequence term index');
-    data.addColumn('number', 'Values');
+    data.addColumn('number', 'Values (y-axis) per index (x-axis)');
 
     data.addRows( generateList(start) );
 
+    // https://developers.google.com/chart/interactive/docs/gallery/linechart#configuration-options
     var options = {
-      chart: {
-        title: '3n+1 problem (aka the Collatz conjecture)',
-        subtitle: 'Graph displays Collatz conjecture sequence terms from sequence start until reaching 1.'
-      },
-      height: 400
+      legend: { position: 'none' },
+      height: 400,
+      hAxis: { title: 'Term index' },
+      vAxis: { title: 'Collatz sequence value' },
     };
 
-    var chart = new google.charts.Line(document.getElementById('linechart'));
+    // using classic linecharts: https://developers.google.com/chart/interactive/docs/gallery/linechart
+    var chart = new google.visualization.LineChart(document.getElementById('linechart'));
 
     chart.draw(data, options);
     updateTableNumbers(sequence);
@@ -114,6 +116,8 @@ Today to amuse myself and my niece, I created the following illustration:
     }
     return max;
   }
+
+  window.onresize = drawChart;
 </script>
 
 <div class="container">
@@ -122,7 +126,7 @@ Today to amuse myself and my niece, I created the following illustration:
       <h2>Try it yourself</h2>
       <p>Alter the <em>sequence start</em> value either by <kbd>up/down</kbd> arrow keys on the keyboard or inputting a value and pressing enter.</p>
       <p>
-        <strong>Sequence start:</strong> <input type="number" id="aloitusarvo" value="30" placeholder="Starting value" onchange="drawChart();"><br />
+        <strong>Sequence start:</strong> <input type="number" id="startValue" value="30" placeholder="Starting value" onchange="drawChart();"><br />
         <strong>Term count:</strong> <span id="terms"></span><br />
         <strong>Largest term:</strong> <span id="largest_member"></span>
       </p>
@@ -131,10 +135,12 @@ Today to amuse myself and my niece, I created the following illustration:
   <div class="row">
     <div class="col-xs-12 col-md-9">
       <h3>Graph</h3>
+      <p>The graph shows Collatz sequence values starting from <em>sequence start</em> (above) until reaching 1:</p>
       <div id="linechart"></div>
     </div>
     <div class="col-xs-12 col-md-3">
       <h3>Tabulated</h3>
+      <p>The same values presented in a data table:</p>
       <div id="numberlist"></div>
     </div>
   </div>
