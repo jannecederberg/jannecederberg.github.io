@@ -30,3 +30,4 @@ exclude:
   - "Gruntfile.js"
   - "package.json"
   - "README.md"
+  - "Gemfile*"
