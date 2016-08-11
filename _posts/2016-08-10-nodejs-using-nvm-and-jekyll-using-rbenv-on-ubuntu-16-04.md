@@ -115,7 +115,7 @@ For more info on `Gemfile` syntax, see <http://bundler.io/gemfile.html>.
 
 Also eliminate `Gemfile` and `Gemfile.lock` from Jekyll output in `_site` directory by adding this to your Jekyll `_config.yml` file:
 
-{% highlight ruby %}
+{% highlight yaml %}
 exclude:
   - "Gemfile*"
 {% endhighlight %}
