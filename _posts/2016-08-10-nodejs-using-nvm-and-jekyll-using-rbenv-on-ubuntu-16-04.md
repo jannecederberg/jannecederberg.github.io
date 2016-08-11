@@ -79,14 +79,47 @@ rbenv global 2.3.1
 
 Notice that the `-v` flag is actually not referring to version in this case (as you might think) but is a flag to turn the verbose installation mode on. More info about install flags: `rbenv help install`.
 
-### Installing Jekyll
+### Installing Bundler for rbenv
 
-The newest version of Jekyll is now v3.2.1. I tried this first but some of my sites broke on so I went to v2.5.3. Here's a [list of the available Jekyll versions](https://rubygems.org/gems/jekyll/versions). Installing it goes as follows:
+To be able to use `Gemfile`s to keep track of dependencies we'll install *Bundler* to get to use the `bundle` command. We can't simply install *Bundler* from where ever but we'll need an `rbenv` related version. Here we go:
 
 {% highlight bash %}
+git clone https://github.com/carsomyr/rbenv-bundler.git ~/.rbenv/plugins/bundler
+gem install bundler
+rbenv bundler on
+{% endhighlight %}
+
+### Installing Jekyll
+
+Here's a [list of the available Jekyll versions](https://rubygems.org/gems/jekyll/versions). The newest version of Jekyll is currently v3.2.1. Some of my sites break under v3.x though and hence I also want to also use v2.5.3. To install them both:
+
+{% highlight bash %}
+gem install jekyll -v 3.2.1
 gem install jekyll -v 2.5.3
+{% endhighlight %}
+
+### Using Bundler with Jekyll
+
+Create your `Gemfile` according to what you need. For example on one of my sites I need Jekyll v2.5.x, *jekyll-paginate* and *jekyll-sitemap* so my `Gemfile` for that site looks like this:
+
+{% highlight ruby %}
+source "http://rubygems.org"
+gem "jekyll", "~>2.5.3"
+gem "jekyll-sitemap"
+gem "jekyll-paginate"
+{% endhighlight %}
+
+For more info on `Gemfile` syntax, see <http://bundler.io/gemfile.html>.
+
+### Eliminate `Gemfile` from Jekyll output
+
+Also eliminate `Gemfile` and `Gemfile.lock` from Jekyll output in `_site` directory by adding this to your Jekyll `_config.yml` file:
+
+{% highlight ruby %}
+exclude:
+  - "Gemfile*"
 {% endhighlight %}
 
 ## Conclusion
 
-After a fair amount of frustration, `nvm`, `node`, `npm`, `rbenv`, `ruby` (2.3.1) and `jekyll` (v2.5.3) now work correctly, yey!
+After a fair amount of frustration, `nvm`, `node`, `npm`, `rbenv`, `ruby` (2.3.1) and `jekyll` (v3.2.1 and v2.5.3) now work correctly, yey!
