@@ -109,6 +109,12 @@ gem "jekyll-sitemap"
 gem "jekyll-paginate"
 {% endhighlight %}
 
+Once you have the `Gemfile` created and you run `jekyll serve` or `jekyll build`, if you get errors, try running this as first resort:
+
+{% highlight bash %}
+bundle install
+{% endhighlight %}
+
 For more info on `Gemfile` syntax, see <http://bundler.io/gemfile.html>.
 
 ### Eliminate `Gemfile` from Jekyll output
