@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-description: "Have questions? I have answers (maybe)."
+description: "Have questions?<br>I have answers. Maybe."
 header-img: bg-contact.jpg
 header-img-mobile: bg-contact_640px.jpg
 ---
