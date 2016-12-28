@@ -8,7 +8,7 @@ serve:
 build:
 	bundle exec jekyll build
 
-update: build
+update:
 	git push
 
 default: serve
