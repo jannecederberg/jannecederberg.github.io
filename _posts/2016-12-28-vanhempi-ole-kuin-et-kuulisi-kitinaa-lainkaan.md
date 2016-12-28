@@ -4,15 +4,12 @@ title:      Vanhempi, ole kuin et kuulisi kitinää lainkaan
 subtitle:   Tässä ovat kasvatuksen uudet kymmenen käskyä
 date:       2016-12-28 10:00:00 +0300
 light-heading: true
-category:   webdev
-tags:
-  - google
-  - search
+category:   lifeskills
 ---
 
 (This article is only in Finnish)
 
-Luin tämään [Hesarin artikkelin lastenkasvatukseen liittyen](http://www.hs.fi/elama/art-2000002889160.html). Vaikkei omia lapsia ainakaan toistaiseksi olekaan niin tuntui muistiin kirjaamisen arvoiselta. Hakasulkuihin kirjatut merkinnät ovat omia lisäyksiäni.
+Luin tämään [Hesarin artikkelin lastenkasvatukseen liittyen](http://www.hs.fi/elama/art-2000002889160.html). Vaikkei omia lapsia ainakaan toistaiseksi olekaan niin tuntui muistiin kirjaamisen arvoiselta. Tässä lyhyt/pikainen tiivistelmäni artikkelista:
 
 ## Artikkeli pähkinänkuoressa
 
