@@ -61,9 +61,12 @@ Use *Backup* menu in TWRP recovery to create a backup of the stock firmware on t
 
 ## Installing CM13 and GApps
 
-1. In TWRP choose to add the CM13 and GApps .zip files to be installed.
-2. When installation completes, reboot the phone.
-3. The initial boot took some 5-7 minutes to complete.
+1. Wipe Dalvik cache and system data.
+2. In TWRP choose to add the CM13 and GApps .zip files to be installed.
+3. Wipe Dalvik cache and system data again.
+	- I don't know if this actually needs to be done both before and after installing CM and GApps but I'm personally in the habit of doing it both before AND after based on prior experience.
+4. When installation completes, reboot the phone.
+5. The initial boot took some 5-7 minutes to complete.
 
 ## Conclusion
 
