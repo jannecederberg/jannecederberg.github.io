@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Browser development status sites
-subtitle:   What different browser dev teams are up to!
+subtitle:   What are different browser dev teams up to?
 date:       2017-01-07 14:00:00 +0200
 category:   webdev
 tags:
